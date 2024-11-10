@@ -1,0 +1,6482 @@
+[
+    {
+        "nume": "Virgil Duma",
+        "titlu": null,
+        "departament": null,
+        "email": "virgil.duma@upt.ro"
+    },
+    {
+        "nume": "Daniela-Elena Popescu",
+        "titlu": null,
+        "departament": null,
+        "email": "daniela-elena.popescu@upt.ro"
+    },
+    {
+        "nume": "Ioan Grozescu",
+        "titlu": "Conducator doctorat",
+        "departament": "Fac. Chimie Ind. şi Ingineria Mediului",
+        "email": "ioan.grozescu@upt.ro"
+    },
+    {
+        "nume": "Șandor Bernad",
+        "titlu": "Cercetător",
+        "departament": "Departamentul MMUT",
+        "email": "sandor.bernad@upt.ro"
+    },
+    {
+        "nume": "ȘTEFAN PAVEL",
+        "titlu": "Cercetător științific",
+        "departament": "ICER",
+        "email": "stefan.pavel@upt.ro"
+    },
+    {
+        "nume": "Oana Grad",
+        "titlu": "Asistent cercetare",
+        "departament": "ICER",
+        "email": "oana.grad@upt.ro"
+    },
+    {
+        "nume": "MARIA MIHĂILESCU",
+        "titlu": "Doctorand",
+        "departament": "ICER",
+        "email": "maria.mihailescu@upt.ro"
+    },
+    {
+        "nume": "Mihaiţă Gireadă",
+        "titlu": "Asistent",
+        "departament": "Inginerie Electrica",
+        "email": "mihaita.gireada@student.upt.ro"
+    },
+    {
+        "nume": "Ioan Pascu",
+        "titlu": "Asistent cercetare",
+        "departament": "ICER",
+        "email": "ioan.pascu@upt.ro"
+    },
+    {
+        "nume": "Constantin Tănasă",
+        "titlu": "Cercetător științific",
+        "departament": "ICER",
+        "email": "constantin.tanasa@upt.ro"
+    },
+    {
+        "nume": "Ion Boldea",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "ion.boldea@upt.ro"
+    },
+    {
+        "nume": "Nicoleta Nemes",
+        "titlu": "Cercetător științific",
+        "departament": "ICER",
+        "email": "nicoleta.nemes@upt.ro"
+    },
+    {
+        "nume": "Vasile Marinca",
+        "titlu": "Profesor pensionar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "vasile.marinca@upt.ro"
+    },
+    {
+        "nume": "Anamaria Baciu",
+        "titlu": "Asistent de cercetare",
+        "departament": "Departamentul CAICAM",
+        "email": "anamaria.baciu@upt.ro"
+    },
+    {
+        "nume": "Corneliu Davidescu",
+        "titlu": "Profesor",
+        "departament": null,
+        "email": "corneliu.davidescu@upt.ro"
+    },
+    {
+        "nume": "Iosif Hulka",
+        "titlu": "Cercetător științific",
+        "departament": "ICER",
+        "email": "iosif.hulka@upt.ro"
+    },
+    {
+        "nume": "Cristina Linul",
+        "titlu": "Asistent Cercetare",
+        "departament": "ICER",
+        "email": "cristina.linul@upt.ro"
+    },
+    {
+        "nume": "Nicolae Vaszilcsin",
+        "titlu": "Decan CHIM / Profesor",
+        "departament": "Fac. Chimie Ind. şi Ingineria Mediului",
+        "email": "nicolae.vaszilcsin@upt.ro"
+    },
+    {
+        "nume": "Francisc Peter",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICON",
+        "email": "francisc.peter@upt.ro"
+    },
+    {
+        "nume": "Crisanta Alina Mazilescu",
+        "titlu": "Profesor",
+        "departament": "C. Pregatirea Personalului Didactic",
+        "email": "alina.mazilescu@upt.ro"
+    },
+    {
+        "nume": "Liliana Todorescu",
+        "titlu": "Lector",
+        "departament": "C. Pregatirea Personalului Didactic",
+        "email": "liliana.todorescu@upt.ro"
+    },
+    {
+        "nume": "Svetlana Maria Vrgovici",
+        "titlu": "Lector",
+        "departament": "C. Pregatirea Personalului Didactic",
+        "email": "svetlana.vrgovici@upt.ro"
+    },
+    {
+        "nume": "Maria-Monica Popescu Mitroi",
+        "titlu": "Lector",
+        "departament": "C. Pregatirea Personalului Didactic",
+        "email": "monica.mitroi@upt.ro"
+    },
+    {
+        "nume": "Cristina Chilibaru-Oprițescu",
+        "titlu": "Asistent",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "cristina.chilibaru-opritescu@upt.ro"
+    },
+    {
+        "nume": "Liviu-Daniel Pîrvulescu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "liviu-daniel.pirvulescu@upt.ro"
+    },
+    {
+        "nume": "Sergiu Galatanu",
+        "titlu": "Șef lucrari",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "sergiu.galatanu@upt.ro"
+    },
+    {
+        "nume": "Mihaela Vasilievici",
+        "titlu": "Inginer",
+        "departament": "Serviciul Comunicații şi Informatizare",
+        "email": "mihaela.vasilievici@upt.ro"
+    },
+    {
+        "nume": "Alin Totorean",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "alin.totorean@upt.ro"
+    },
+    {
+        "nume": "Dan Șerban",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "dan.serban@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Luca",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "gheorghe.luca@upt.ro"
+    },
+    {
+        "nume": "Lucian Marius Rusu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "lucian.rusu@upt.ro"
+    },
+    {
+        "nume": "Marcela Sava",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "marcela.sava@upt.ro"
+    },
+    {
+        "nume": "Nicolae Faur",
+        "titlu": "Profesor pensionar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "nicolae.faur@upt.ro"
+    },
+    {
+        "nume": "Vasile Marinca",
+        "titlu": "Profesor pensionar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "vasile.marinca@upt.ro"
+    },
+    {
+        "nume": "Karoly Menyhardt",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "karoly.menyhardt@upt.ro"
+    },
+    {
+        "nume": "Ramona Nagy",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "ramona.nagy@upt.ro"
+    },
+    {
+        "nume": "Dorin Simoiu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "dorin.simoiu@upt.ro"
+    },
+    {
+        "nume": "Liviu Bereteu",
+        "titlu": "Profesor pensionar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "liviu.bereteu@upt.ro"
+    },
+    {
+        "nume": "Mihai Hlușcu",
+        "titlu": "Prodecan - Conferențiar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "mihai.hluscu@upt.ro"
+    },
+    {
+        "nume": "Anghel Cernescu",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "anghel.cernescu@upt.ro"
+    },
+    {
+        "nume": "Emanoil Linul",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "emanoil.linul@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Drăgănescu",
+        "titlu": "Profesor pensionar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "gheorghe.draganescu@upt.ro"
+    },
+    {
+        "nume": "Nicolae Neguț",
+        "titlu": "Profesor",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "nicolae.negut@upt.ro"
+    },
+    {
+        "nume": "Cristian Neș",
+        "titlu": "Asistent",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "cristian.nes@upt.ro"
+    },
+    {
+        "nume": "Nicolae Herișanu",
+        "titlu": "Profesor",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "nicolae.herisanu@upt.ro"
+    },
+    {
+        "nume": "Pavel Tripa",
+        "titlu": "Profesor",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "pavel.tripa@upt.ro"
+    },
+    {
+        "nume": "Liviu Marșavina",
+        "titlu": "Prorector",
+        "departament": "Cercetare științifică, inovare, și transfer tehnologic",
+        "email": "liviu.marsavina@upt.ro"
+    },
+    {
+        "nume": "Iuliu Sisak",
+        "titlu": "Asistent",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "iuliu.sisak@upt.ro"
+    },
+    {
+        "nume": "Dana Silaghi-Perju",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "dana.silaghi-perju@upt.ro"
+    },
+    {
+        "nume": "Cosmina Simona Vigaru",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "cosmina.vigaru@upt.ro"
+    },
+    {
+        "nume": "Mirela Toth-Tascău",
+        "titlu": "Profesor",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "mirela.toth-tascau@upt.ro"
+    },
+    {
+        "nume": "Radu Marcel Negru",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "radu.negru@upt.ro"
+    },
+    {
+        "nume": "Dan Stoia",
+        "titlu": "Director departament - Conferențiar",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "dan.stoia@upt.ro"
+    },
+    {
+        "nume": "Patrick Ștefănescu ",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "patrick.stefanescu@upt.ro"
+    },
+    {
+        "nume": "George-Catalin Crisan",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "george-catalin.crisan@upt.ro"
+    },
+    {
+        "nume": "Loredana Vesa",
+        "titlu": "Asistent",
+        "departament": "Departamentul MMUT",
+        "email": "loredana.vesa@upt.ro"
+    },
+    {
+        "nume": "Daniel Stroita",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "daniel.stroita@upt.ro"
+    },
+    {
+        "nume": "Raul Kulcsar",
+        "titlu": "Asistent",
+        "departament": "Departamentul MMUT",
+        "email": "raul.kulcsar@upt.ro"
+    },
+    {
+        "nume": "Oana Ghergan",
+        "titlu": "Asistent",
+        "departament": "Departamentul MMUT",
+        "email": "oana.ghergan@upt.ro"
+    },
+    {
+        "nume": "Andrei Borborean",
+        "titlu": "Asistent",
+        "departament": "Departamentul MMUT",
+        "email": "andrei.borborean@upt.ro"
+    },
+    {
+        "nume": "Silvana Silvestru-Semcov",
+        "titlu": "Secretar dep.",
+        "departament": "Departamentul MMUT",
+        "email": "silvana.silvestru-semcov@upt.ro"
+    },
+    {
+        "nume": "Romeo Susan-Resiga",
+        "titlu": "Profesor",
+        "departament": "Departamentul MMUT",
+        "email": "romeo.resiga@upt.ro"
+    },
+    {
+        "nume": "Eugen Ghita",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "eugen.ghita@upt.ro"
+    },
+    {
+        "nume": "Ramon Balogh",
+        "titlu": "Sef Lucrari",
+        "departament": "Departamentul MMUT",
+        "email": "ramon.balogh@upt.ro"
+    },
+    {
+        "nume": "Sebastian Muntean",
+        "titlu": "Cercetător",
+        "departament": "Departamentul MMUT",
+        "email": "sebastian.muntean@upt.ro"
+    },
+    {
+        "nume": "Ioana Mircea",
+        "titlu": "Asistent de cercetare",
+        "departament": "Departamentul MMUT",
+        "email": "ioana.mircea@upt.ro"
+    },
+    {
+        "nume": "Dan Stepan",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "dan.stepan@upt.ro"
+    },
+    {
+        "nume": "Laurenţiu Călin",
+        "titlu": "Asistent cercetare ",
+        "departament": "Departamentul MMUT",
+        "email": "laurentiu.calin@upt.ro"
+    },
+    {
+        "nume": "Dumitru Tucu",
+        "titlu": "Profesor",
+        "departament": "Departamentul MMUT",
+        "email": "dumitru.tucu@upt.ro"
+    },
+    {
+        "nume": "Ionel Vandici",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "ionel.vandici@upt.ro"
+    },
+    {
+        "nume": "Mircea Olariu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "mircea.olariu@upt.ro"
+    },
+    {
+        "nume": "Alexandrina Ion",
+        "titlu": null,
+        "departament": "Departamentul MMUT",
+        "email": "alexandrina.ion@upt.ro"
+    },
+    {
+        "nume": "Mariana Todiruta",
+        "titlu": "Cercetător",
+        "departament": "Departamentul MMUT",
+        "email": "mariana.todiruta@upt.ro"
+    },
+    {
+        "nume": "Gabriel Malaimare",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "gabriel.malaimare@upt.ro"
+    },
+    {
+        "nume": "Adelina Han",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "adelina.han@upt.ro"
+    },
+    {
+        "nume": "Ioan Ursulescu",
+        "titlu": "Asistent",
+        "departament": "Departamentul MMUT",
+        "email": "ioan.ursulescu@upt.ro"
+    },
+    {
+        "nume": "Mircea Vasilescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "mircea.vasilescu@upt.ro"
+    },
+    {
+        "nume": "Richard Herman",
+        "titlu": "Profesor",
+        "departament": "Departamentul MMUT",
+        "email": "richard.herman@upt.ro"
+    },
+    {
+        "nume": "Alexandru Baya",
+        "titlu": "Profesor",
+        "departament": "Departamentul MMUT",
+        "email": "alexandru.baya@upt.ro"
+    },
+    {
+        "nume": "Ioana Ionel",
+        "titlu": "Profesor",
+        "departament": "Departamentul MMUT",
+        "email": "ioana.ionel@upt.ro"
+    },
+    {
+        "nume": "Dan Oprişa",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "dan.oprisa@upt.ro"
+    },
+    {
+        "nume": "Adrian Cipleu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "adrian.cipleu@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Sosdean",
+        "titlu": "Strungar",
+        "departament": "Departamentul MMUT",
+        "email": "gheorghe.sosdean@upt.ro"
+    },
+    {
+        "nume": "Adrian Stuparu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "adrian.stuparu@upt.ro"
+    },
+    {
+        "nume": "Teodor Milos",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "teodor.milos@upt.ro"
+    },
+    {
+        "nume": "Werner Stefanescu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "werner.stefanescu@upt.ro"
+    },
+    {
+        "nume": "Adriana Manea",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "adriana.manea@upt.ro"
+    },
+    {
+        "nume": "Oana Marinica",
+        "titlu": "Cercetător",
+        "departament": "Departamentul MMUT",
+        "email": "oana.marinica@upt.ro"
+    },
+    {
+        "nume": "Luisa Dungan",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "luisa.dungan@upt.ro"
+    },
+    {
+        "nume": "Mihaela Herman",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "mihaela.herman@upt.ro"
+    },
+    {
+        "nume": "George Giula",
+        "titlu": "Asistent",
+        "departament": "Departamentul MMUT",
+        "email": "george.giula@upt.ro"
+    },
+    {
+        "nume": "Floriana Stoian",
+        "titlu": "Profesor",
+        "departament": "Departamentul MMUT",
+        "email": "floriana.stoian@upt.ro"
+    },
+    {
+        "nume": "Liliana Tulcan",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "liliana.tulcan@upt.ro"
+    },
+    {
+        "nume": "Ioan Laza",
+        "titlu": "Director departament / Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "ioan.laza@upt.ro"
+    },
+    {
+        "nume": "Francisc Popescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "francisc.popescu@upt.ro"
+    },
+    {
+        "nume": "Eugen Cicala",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "eugen.cicala@upt.ro"
+    },
+    {
+        "nume": "Dorin Lelea",
+        "titlu": "Profesor",
+        "departament": "Departamentul MMUT",
+        "email": "dorin.lelea@upt.ro"
+    },
+    {
+        "nume": "Sorin Deac",
+        "titlu": "Inginer",
+        "departament": "Departamentul MMUT",
+        "email": "sorin.deac@upt.ro"
+    },
+    {
+        "nume": "Florica Balanean",
+        "titlu": "Asistent",
+        "departament": "Departamentul MMUT",
+        "email": "florica.balanean@upt.ro"
+    },
+    {
+        "nume": "Cosmin Ighişan",
+        "titlu": "Asistent de cercetare",
+        "departament": "Departamentul MMUT",
+        "email": "cosmin.ighisan@upt.ro"
+    },
+    {
+        "nume": "Georgeta Mocuta",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "georgeta.mocuta@upt.ro"
+    },
+    {
+        "nume": "Arina Negoitescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "arina.negoitescu@upt.ro"
+    },
+    {
+        "nume": "Sorin Terescu",
+        "titlu": "Strungar",
+        "departament": "Departamentul MMUT",
+        "email": "sorin.terescu@upt.ro"
+    },
+    {
+        "nume": "Mihaela Botis",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "mihaela.botis@upt.ro"
+    },
+    {
+        "nume": "Sorin Ignat",
+        "titlu": "Asistent",
+        "departament": "Departamentul MMUT",
+        "email": "sorin.ignat@upt.ro"
+    },
+    {
+        "nume": "Gavril Brateanu",
+        "titlu": "Inginer",
+        "departament": "Departamentul MMUT",
+        "email": "gavril.brateanu@upt.ro"
+    },
+    {
+        "nume": "Liviu Anton",
+        "titlu": "Profesor",
+        "departament": "Departamentul MMUT",
+        "email": "liviu.anton@upt.ro"
+    },
+    {
+        "nume": "Ilie Mitrofan",
+        "titlu": "Tehnician",
+        "departament": "Departamentul MMUT",
+        "email": "ilie.mitrofan@upt.ro"
+    },
+    {
+        "nume": "Virgil Stoica",
+        "titlu": "Decan - Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "virgil.stoica@upt.ro"
+    },
+    {
+        "nume": "Sorin Holotescu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "sorin.holotescu@upt.ro"
+    },
+    {
+        "nume": "Angela Vatau",
+        "titlu": "Secretar dep.",
+        "departament": "Departamentul MMUT",
+        "email": "angela.vatau@upt.ro"
+    },
+    {
+        "nume": "Daniel Iorga",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul MMUT",
+        "email": "daniel.iorga@upt.ro"
+    },
+    {
+        "nume": "Traian Fleser",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul MMUT",
+        "email": "traian.fleser@upt.ro"
+    },
+    {
+        "nume": "Ion Vetres",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "ion.vetres@upt.ro"
+    },
+    {
+        "nume": "Nicolae Lontis",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "nicolae.lontis@upt.ro"
+    },
+    {
+        "nume": "Zoltan Szucs",
+        "titlu": "Inginer",
+        "departament": "Departamentul MMUT",
+        "email": "zoltan.szucs@upt.ro"
+    },
+    {
+        "nume": "Traian Botea",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "traian.botea@upt.ro"
+    },
+    {
+        "nume": "Adrian Cioabla",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "adrian.cioabla@upt.ro"
+    },
+    {
+        "nume": "Eugen Dobânda",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "eugen.dobanda@upt.ro"
+    },
+    {
+        "nume": "Rodica Badarau",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "rodica.badarau@upt.ro"
+    },
+    {
+        "nume": "Emil Codrea",
+        "titlu": "Lăcătuș",
+        "departament": "Departamentul MMUT",
+        "email": "emil.codrea@upt.ro"
+    },
+    {
+        "nume": "Dinu Gubencu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "dinu.gubencu@upt.ro"
+    },
+    {
+        "nume": "Ioan Padurean",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "ioan.padurean@upt.ro"
+    },
+    {
+        "nume": "Liviu Mihon",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "liviu.mihon@upt.ro"
+    },
+    {
+        "nume": "Ioan Groza",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "ioan.groza@upt.ro"
+    },
+    {
+        "nume": "Adrian Bej",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "adrian.bej@upt.ro"
+    },
+    {
+        "nume": "Dumitru Mnerie",
+        "titlu": "Profesor",
+        "departament": "Departamentul MMUT",
+        "email": "dumitru.mnerie@upt.ro"
+    },
+    {
+        "nume": "Ilare Bordeasu",
+        "titlu": "Director departament - Profesor",
+        "departament": "Departamentul MMUT",
+        "email": "ilare.bordeasu@upt.ro"
+    },
+    {
+        "nume": "Nicolae Crainic",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "nicolae.crainic@upt.ro"
+    },
+    {
+        "nume": "Dumitru Iancului",
+        "titlu": "Conferențiar pensionar",
+        "departament": "Departamentul MMUT",
+        "email": "dumitru.iancului@upt.ro"
+    },
+    {
+        "nume": "Victor Popa",
+        "titlu": "Inginer",
+        "departament": "Departamentul MMUT",
+        "email": "victor.popa@upt.ro"
+    },
+    {
+        "nume": "Gavrila Trif-Tordai",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "gavrila.trif-tordai@upt.ro"
+    },
+    {
+        "nume": "Mihai Jadaneant",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul MMUT",
+        "email": "mihai.jadaneant@upt.ro"
+    },
+    {
+        "nume": "Constantin Dragomir",
+        "titlu": "Tehnician",
+        "departament": "Departamentul MMUT",
+        "email": "constantin.dragomir@upt.ro"
+    },
+    {
+        "nume": "Daniel Ostoia",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul MMUT",
+        "email": "daniel.ostoia@upt.ro"
+    },
+    {
+        "nume": "Titus Slavici",
+        "titlu": "Profesor",
+        "departament": "Departamentul MMUT",
+        "email": "titus.slavici@upt.ro"
+    },
+    {
+        "nume": "Attila Gonczi",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "attila.gonczi@upt.ro"
+    },
+    {
+        "nume": "Gabriel Ursu-Neamt",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "gabriel.ursu-neamt@upt.ro"
+    },
+    {
+        "nume": "Ion Sporea",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul MMUT",
+        "email": "ion.sporea@upt.ro"
+    },
+    {
+        "nume": "Cornel Velescu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "cornel.velescu@upt.ro"
+    },
+    {
+        "nume": "Mircea Barglazan",
+        "titlu": "Profesor",
+        "departament": "Departamentul MMUT",
+        "email": "mircea.barglazan@upt.ro"
+    },
+    {
+        "nume": "Zlatomir Costin",
+        "titlu": "Inginer",
+        "departament": "Departamentul MMUT",
+        "email": "zlatomir.costin@upt.ro"
+    },
+    {
+        "nume": "Vasilica Vulpe",
+        "titlu": "Tehnician",
+        "departament": "Departamentul MMUT",
+        "email": "vasilica.vulpe@upt.ro"
+    },
+    {
+        "nume": "Voicu Safta",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "voicu.safta@upt.ro"
+    },
+    {
+        "nume": "Alin Bosioc",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "alin.bosioc@upt.ro"
+    },
+    {
+        "nume": "Ionel Baciu",
+        "titlu": "Asistent",
+        "departament": "Departamentul MMUT",
+        "email": "ionel.baciu@upt.ro"
+    },
+    {
+        "nume": "Mihai Nagi",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul MMUT",
+        "email": "mihai.nagi@upt.ro"
+    },
+    {
+        "nume": "Tiberiu Ciocan",
+        "titlu": "Asistent",
+        "departament": "Departamentul MMUT",
+        "email": "tiberiu.ciocan@upt.ro"
+    },
+    {
+        "nume": "Marius Călimanu",
+        "titlu": "Asistent",
+        "departament": "Departamentul MMUT",
+        "email": "marius.calimanu@upt.ro"
+    },
+    {
+        "nume": "Cristian Ghera",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul MMUT",
+        "email": "cristian.ghera@upt.ro"
+    },
+    {
+        "nume": "ANA Scurt",
+        "titlu": "Asistent",
+        "departament": "Dep_MECAT",
+        "email": "ana.scurt@upt.ro"
+    },
+    {
+        "nume": "Mihaela Vasilievici",
+        "titlu": "Inginer",
+        "departament": "Serviciul Comunicații şi Informatizare",
+        "email": "mihaela.vasilievici@upt.ro"
+    },
+    {
+        "nume": "Corina Sosdean",
+        "titlu": "Asistent",
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "corina.sosdean@upt.ro"
+    },
+    {
+        "nume": "Ion Silviu Borozan ",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "ion.borozan@upt.ro"
+    },
+    {
+        "nume": "Alin Bitea",
+        "titlu": "Asistent",
+        "departament": "Departamentul Mecatronică",
+        "email": "alin.bitea@upt.ro"
+    },
+    {
+        "nume": "Robert Kristof",
+        "titlu": "Asistent",
+        "departament": "Mecatronica",
+        "email": "robert.kristof@upt.ro"
+    },
+    {
+        "nume": "Laura Sălcianu",
+        "titlu": "Asistent Universitar",
+        "departament": "Departamentul Mecatronica",
+        "email": "laura.salcianu@upt.ro"
+    },
+    {
+        "nume": "Lucian Madaras",
+        "titlu": "Profesor",
+        "departament": "Departamentul Mecatronică",
+        "email": "lucian.madaras@upt.ro"
+    },
+    {
+        "nume": "Silviu Dumitras",
+        "titlu": "Asistent",
+        "departament": "Departamentul Mecatronică",
+        "email": "silviu.dumitras@upt.ro"
+    },
+    {
+        "nume": "Ioan Nicoara",
+        "titlu": "Profesor",
+        "departament": "Departamentul Mecatronică",
+        "email": "ioan.nicoara@upt.ro"
+    },
+    {
+        "nume": "Lia Dolga",
+        "titlu": "Profesor",
+        "departament": "Departamentul Mecatronică",
+        "email": "lia.dolga@upt.ro"
+    },
+    {
+        "nume": "Adrian Radu",
+        "titlu": "Inginer",
+        "departament": "Departamentul Mecatronică",
+        "email": "adrian.radu@upt.ro"
+    },
+    {
+        "nume": "Mircea Voda",
+        "titlu": "Profesor",
+        "departament": "Departamentul Mecatronică",
+        "email": "mircea.voda@upt.ro"
+    },
+    {
+        "nume": "Francisc Ioanovici",
+        "titlu": "Conferențiar pensionar",
+        "departament": "Departamentul Mecatronică",
+        "email": "francisc.ioanovici@upt.ro"
+    },
+    {
+        "nume": "Aurel Diaconu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "aurel.diaconu@upt.ro"
+    },
+    {
+        "nume": "Valentin Ciupe",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Mecatronică",
+        "email": "valentin.ciupe@upt.ro"
+    },
+    {
+        "nume": "Ileana Mladin",
+        "titlu": "Asistent",
+        "departament": "Departamentul Mecatronică",
+        "email": "ileana.mladin@upt.ro"
+    },
+    {
+        "nume": "Adrian Radu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "george.radu@upt.ro"
+    },
+    {
+        "nume": "Anca Popa",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "anca.popa@upt.ro"
+    },
+    {
+        "nume": "Veronica Argesanu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Mecatronică",
+        "email": "veronica.argesanu@upt.ro"
+    },
+    {
+        "nume": "Mariana Ilie",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Mecatronică",
+        "email": "mariana.ilie@upt.ro"
+    },
+    {
+        "nume": "Marius Mateas",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "marius.mateas@upt.ro"
+    },
+    {
+        "nume": "Nicolae Dehelean",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Mecatronică",
+        "email": "nicolae.dehelean@upt.ro"
+    },
+    {
+        "nume": "Cristian Pop",
+        "titlu": "Asistent",
+        "departament": "Departamentul Mecatronică",
+        "email": "cristian.pop@upt.ro"
+    },
+    {
+        "nume": "Arjana Davidescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Mecatronică",
+        "email": "arjana.davidescu@upt.ro"
+    },
+    {
+        "nume": "Dan Perju",
+        "titlu": "Profesor",
+        "departament": "Departamentul Mecatronică",
+        "email": "dan.perju@upt.ro"
+    },
+    {
+        "nume": "George Savii",
+        "titlu": "Profesor",
+        "departament": "Departamentul Mecatronică",
+        "email": "george.savii@upt.ro"
+    },
+    {
+        "nume": "Dan Margineanu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Mecatronică",
+        "email": "dan.margineanu@upt.ro"
+    },
+    {
+        "nume": "Carmen Sticlaru",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Mecatronică",
+        "email": "carmen.sticlaru@upt.ro"
+    },
+    {
+        "nume": "Arseniu Pecican",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "arseniu.pecican@upt.ro"
+    },
+    {
+        "nume": "Octavian Gligor",
+        "titlu": "Profesor",
+        "departament": "Departamentul Mecatronică",
+        "email": "octavian.gligor@upt.ro"
+    },
+    {
+        "nume": "Florina Pop",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "florina.pop@upt.ro"
+    },
+    {
+        "nume": "Mircea Fenchea",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Mecatronică",
+        "email": "mircea.fenchea@upt.ro"
+    },
+    {
+        "nume": "Doina Saftencu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "doina.saftencu@upt.ro"
+    },
+    {
+        "nume": "Inocentiu Maniu",
+        "titlu": "Decan Fac. de Mecanica",
+        "departament": "Departamentul Mecatronică",
+        "email": "inocentiu.maniu@upt.ro"
+    },
+    {
+        "nume": "Adriana Teodorescu",
+        "titlu": "Inginer",
+        "departament": "Departamentul Mecatronică",
+        "email": "adriana.teodorescu@upt.ro"
+    },
+    {
+        "nume": "Corina Gruescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Mecatronică",
+        "email": "corina.gruescu@upt.ro"
+    },
+    {
+        "nume": "Valer Dolga",
+        "titlu": "Profesor",
+        "departament": "Departamentul Mecatronică",
+        "email": "valer.dolga@upt.ro"
+    },
+    {
+        "nume": "Valeria Vacarescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Mecatronică",
+        "email": "valeria.vacarescu@upt.ro"
+    },
+    {
+        "nume": "Ioan Cota",
+        "titlu": "Asistent",
+        "departament": "Departamentul Mecatronică",
+        "email": "ioan.cota@upt.ro"
+    },
+    {
+        "nume": "Liana Dehelean",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "liana.dehelean@upt.ro"
+    },
+    {
+        "nume": "Rodica Militaru",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "rodica.militaru@upt.ro"
+    },
+    {
+        "nume": "Milenco Luchin",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "milenco.luchin@upt.ro"
+    },
+    {
+        "nume": "Sanda Grigorescu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "sanda.grigorescu@upt.ro"
+    },
+    {
+        "nume": "Cristian Moldovan",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "cristian.moldovan@upt.ro"
+    },
+    {
+        "nume": "Voicu Mesaros-Anghel",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Mecatronică",
+        "email": "voicu.mesaros-anghel@upt.ro"
+    },
+    {
+        "nume": "Andreea Dobra",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "andreea.dobra@upt.ro"
+    },
+    {
+        "nume": "Iosif Carabas",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Mecatronică",
+        "email": "iosif.carabas@upt.ro"
+    },
+    {
+        "nume": "Mihaela Jula",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "mihaela.jula@upt.ro"
+    },
+    {
+        "nume": "Eugen Zabava",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "eugen.zabava@upt.ro"
+    },
+    {
+        "nume": "Erwin Lovasz",
+        "titlu": "Director departament - Profesor",
+        "departament": "Departamentul Mecatronică",
+        "email": "erwin.lovasz@upt.ro"
+    },
+    {
+        "nume": "Endre Ianosi",
+        "titlu": "Asistent",
+        "departament": "Departamentul Mecatronică",
+        "email": "endre.ianosi@upt.ro"
+    },
+    {
+        "nume": "Hanelore Filipescu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Mecatronică",
+        "email": "hannelore.filipescu@upt.ro"
+    },
+    {
+        "nume": "Costel Nicolaie",
+        "titlu": "Asistent",
+        "departament": "Departamentul Mecatronică",
+        "email": "costel.nicolaie@upt.ro"
+    },
+    {
+        "nume": "Madalina Pasca ",
+        "titlu": "Asistent",
+        "departament": "Departamentul Matematică",
+        "email": "madalina.pasca@upt.ro"
+    },
+    {
+        "nume": "Emanuel Cismaș",
+        "titlu": "Asistent",
+        "departament": "Departamentul Matematică",
+        "email": "emanuel.cismas@upt.ro"
+    },
+    {
+        "nume": "Maria Lăpădat",
+        "titlu": "Asistent",
+        "departament": "Departamentul Matematică",
+        "email": "maria.lapadat@upt.ro"
+    },
+    {
+        "nume": "Remus Ene",
+        "titlu": "Asistent",
+        "departament": "Departamentul Matematică",
+        "email": "remus.ene@upt.ro"
+    },
+    {
+        "nume": "Flavius Pater",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "flavius.pater@upt.ro"
+    },
+    {
+        "nume": "Cristiana Căplescu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Matematică",
+        "email": "cristiana.caplescu@upt.ro"
+    },
+    {
+        "nume": "Dan Dăianu",
+        "titlu": "Conferențiar pensionar",
+        "departament": "Departamentul Matematică",
+        "email": "dan.daianu@upt.ro"
+    },
+    {
+        "nume": "Nicolae Crivăţ",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "nicolae.crivat@upt.ro"
+    },
+    {
+        "nume": "Ioana Lazăr",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "ioana.lazar@upt.ro"
+    },
+    {
+        "nume": "Adina Juratoni",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "adina.juratoni@upt.ro"
+    },
+    {
+        "nume": "Nicolae Lupa",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "nicolae.lupa@upt.ro"
+    },
+    {
+        "nume": "Sorin Lugojan",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "sorin.lugojan@upt.ro"
+    },
+    {
+        "nume": "Andrei Eckstein",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "andrei.eckstein@upt.ro"
+    },
+    {
+        "nume": "Florica Dragomirescu",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "ioana.dragomirescu@upt.ro"
+    },
+    {
+        "nume": "Constantin Bota",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Matematică",
+        "email": "constantin.bota@upt.ro"
+    },
+    {
+        "nume": "Maria Jivulescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Matematică",
+        "email": "maria.jivulescu@upt.ro"
+    },
+    {
+        "nume": "Bogdan Căruntu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Matematică",
+        "email": "bogdan.caruntu@upt.ro"
+    },
+    {
+        "nume": "Liviu Cădariu-Brăiloiu",
+        "titlu": "Prorector",
+        "departament": "Managementul resurselor și politici financiare",
+        "email": "liviu.cadariu-brailoiu@upt.ro"
+    },
+    {
+        "nume": "Nicolae Cofan",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "nicolae.cofan@upt.ro"
+    },
+    {
+        "nume": "Cristian Lăzureanu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Matematică",
+        "email": "cristian.lazureanu@upt.ro"
+    },
+    {
+        "nume": "Ioan Goleţ",
+        "titlu": "Conferențiar pensionar",
+        "departament": "Departamentul Matematică",
+        "email": "ioan.golet@upt.ro"
+    },
+    {
+        "nume": "Ciprian Hedrea",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "ciprian.hedrea@upt.ro"
+    },
+    {
+        "nume": "Laura Manolescu",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "laura.manolescu@upt.ro"
+    },
+    {
+        "nume": "Olivia Bundău",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "olivia.bundau@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Moza",
+        "titlu": "Profesor",
+        "departament": "Departamentul Matematică",
+        "email": "gheorghe.moza@upt.ro"
+    },
+    {
+        "nume": "Adalbert Kovacs",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Matematică",
+        "email": "adalbert.kovacs@upt.ro"
+    },
+    {
+        "nume": "Camelia Petrişor",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "camelia.petrisor@upt.ro"
+    },
+    {
+        "nume": "Emilia Petrişor",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Matematică",
+        "email": "emilia.petrisor@upt.ro"
+    },
+    {
+        "nume": "Anania Gîrban",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "anania.girban@upt.ro"
+    },
+    {
+        "nume": "Tudor Bînzar",
+        "titlu": "Director departament - Conferențiar",
+        "departament": "Departamentul Matematică",
+        "email": "tudor.binzar@upt.ro"
+    },
+    {
+        "nume": "Dan Popescu",
+        "titlu": "Cd asociat",
+        "departament": "Departamentul Matematică",
+        "email": "dan.popescu@upt.ro"
+    },
+    {
+        "nume": "Cătălin Vasii",
+        "titlu": "Asistent",
+        "departament": "Departamentul Matematică",
+        "email": "catalin.vasii@upt.ro"
+    },
+    {
+        "nume": "Romeo Negrea",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Matematică",
+        "email": "romeo.negrea@upt.ro"
+    },
+    {
+        "nume": "Pasc Găvruţa",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Matematică",
+        "email": "pasc.gavruta@upt.ro"
+    },
+    {
+        "nume": "Doru Păunescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Matematică",
+        "email": "doru.paunescu@upt.ro"
+    },
+    {
+        "nume": "Camelia Arieşanu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Matematică",
+        "email": "camelia.ariesanu@upt.ro"
+    },
+    {
+        "nume": "Loredana Ciurdariu",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "loredana.ciurdariu@upt.ro"
+    },
+    {
+        "nume": "Lavinia Mihali",
+        "titlu": "Asistent",
+        "departament": "Departamentul Management",
+        "email": "lavinia.mihali@upt.ro"
+    },
+    {
+        "nume": "Traian Muțiu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Management",
+        "email": "traian.mutiu@upt.ro"
+    },
+    {
+        "nume": "Mihaela Boran",
+        "titlu": "Profesor",
+        "departament": "Departamentul Management",
+        "email": "mihaela.boran@upt.ro"
+    },
+    {
+        "nume": "Cornelia Baeră",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "cornelia.baera@upt.ro"
+    },
+    {
+        "nume": "ANDRA DIACONESCU",
+        "titlu": "Asistent",
+        "departament": "Departamentul Management",
+        "email": "andra.diaconescu@upt.ro"
+    },
+    {
+        "nume": "Attila Turi",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "attila.turi@upt.ro"
+    },
+    {
+        "nume": "Eugen Dogariu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "eugen.dogariu2@upt.ro"
+    },
+    {
+        "nume": "Serban Miclea",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "serban.miclea@upt.ro"
+    },
+    {
+        "nume": "Larisa Ivașcu",
+        "titlu": "Conferentiar",
+        "departament": "Departamentul Management",
+        "email": "larisa.ivascu@upt.ro"
+    },
+    {
+        "nume": "Alin Găureanu",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Management",
+        "email": "alin.gaureanu@upt.ro"
+    },
+    {
+        "nume": "Ilie Taucean",
+        "titlu": "Prodecan - Conferențiar",
+        "departament": "Departamentul Management",
+        "email": "ilie.taucean@upt.ro"
+    },
+    {
+        "nume": "Claudiu Albulescu",
+        "titlu": "Director Departament - Profesor",
+        "departament": "Relații Internaționale - Management",
+        "email": "claudiu.albulescu@upt.ro"
+    },
+    {
+        "nume": "Marian Mocan",
+        "titlu": "Decan - Profesor",
+        "departament": "Fac. Management in Producţie şi Transp",
+        "email": "marian.mocan@upt.ro"
+    },
+    {
+        "nume": "Olivia Giuca",
+        "titlu": "Asistent",
+        "departament": "Departamentul Management",
+        "email": "olivia.giuca@upt.ro"
+    },
+    {
+        "nume": "Alin Artene",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Management",
+        "email": "alin.artene@upt.ro"
+    },
+    {
+        "nume": "Andreea Mihartescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Management",
+        "email": "andreea.mihartescu@upt.ro"
+    },
+    {
+        "nume": "Horia Popa",
+        "titlu": "Profesor",
+        "departament": "Departamentul Management",
+        "email": "horia.popa@upt.ro"
+    },
+    {
+        "nume": "Anca Draghici",
+        "titlu": "Profesor",
+        "departament": "Departamentul Management",
+        "email": "anca.draghici@upt.ro"
+    },
+    {
+        "nume": "Monica Izvercianu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Management",
+        "email": "monica.izvercianu@upt.ro"
+    },
+    {
+        "nume": "Eugenia Grecu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Management",
+        "email": "eugenia.grecu@upt.ro"
+    },
+    {
+        "nume": "Tiberiu Oana",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "tiberiu.oana@upt.ro"
+    },
+    {
+        "nume": "Mihai Misca",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "mihai.misca@upt.ro"
+    },
+    {
+        "nume": "Dan Duran",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "dan.duran@upt.ro"
+    },
+    {
+        "nume": "Sabina Potra",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "sabina.potra@upt.ro"
+    },
+    {
+        "nume": "Gabriela Prostean",
+        "titlu": "Profesor",
+        "departament": "Departamentul Management",
+        "email": "gabriela.prostean@upt.ro"
+    },
+    {
+        "nume": "Nicolae Cociu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Management",
+        "email": "nicolae.cociu@upt.ro"
+    },
+    {
+        "nume": "Gabriela Strauti",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "gabriela.strauti@upt.ro"
+    },
+    {
+        "nume": "Vasile Duran",
+        "titlu": "Profesor",
+        "departament": "Departamentul Management",
+        "email": "vasile.duran@upt.ro"
+    },
+    {
+        "nume": "Kinga Scharamko",
+        "titlu": "Asistent",
+        "departament": "Departamentul Management",
+        "email": "kinga.scharamko@upt.ro"
+    },
+    {
+        "nume": "Pavel Dupta",
+        "titlu": "Asistent",
+        "departament": "Departamentul Management",
+        "email": "pavel.dupta@upt.ro"
+    },
+    {
+        "nume": "Mihaela Vartolomei",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "mihaela.vartolomei@upt.ro"
+    },
+    {
+        "nume": "Matei Tamasila",
+        "titlu": "Director departament - Profesor",
+        "departament": "Departamentul Management",
+        "email": "matei.tamasila@upt.ro"
+    },
+    {
+        "nume": "Adrian Pugna",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Management",
+        "email": "adrian.pugna@upt.ro"
+    },
+    {
+        "nume": "Constantin Dumitrescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Management",
+        "email": "constantin.dumitrescu@upt.ro"
+    },
+    {
+        "nume": "George Belgiu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Management",
+        "email": "george.belgiu@upt.ro"
+    },
+    {
+        "nume": "Anghel Taroata",
+        "titlu": "Profesor",
+        "departament": "Departamentul Management",
+        "email": "anghel.taroata@upt.ro"
+    },
+    {
+        "nume": "Cella Buciuman",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "cella.buciuman@upt.ro"
+    },
+    {
+        "nume": "Florin Timplaru",
+        "titlu": "Asistent",
+        "departament": "Departamentul Management",
+        "email": "florin.timplaru@upt.ro"
+    },
+    {
+        "nume": "Liana Pater",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "liana.pater@upt.ro"
+    },
+    {
+        "nume": "Mircea Negrut",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Management",
+        "email": "mircea.negrut@upt.ro"
+    },
+    {
+        "nume": "Caius Luminosu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "caius.luminosu@upt.ro"
+    },
+    {
+        "nume": "Monica Tion",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Management",
+        "email": "monica.tion@upt.ro"
+    },
+    {
+        "nume": "ANA-MARIA FEIER ",
+        "titlu": "Șef lucrări",
+        "departament": "Dep_IMF",
+        "email": "ana-maria.feier@upt.ro"
+    },
+    {
+        "nume": "Sebastian Ambruş",
+        "titlu": "Asistent",
+        "departament": "Departamentul IMF",
+        "email": "sebastian.ambrus@upt.ro"
+    },
+    {
+        "nume": "Roxana Muntean",
+        "titlu": "Asistent",
+        "departament": "Dep_IMF",
+        "email": "roxana.muntean@upt.ro"
+    },
+    {
+        "nume": "Ştefan Ţîmpea",
+        "titlu": "Asistent",
+        "departament": "Departamentul IMF",
+        "email": "stefan.timpea@upt.ro"
+    },
+    {
+        "nume": "Cosmin Locovei",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "cosmin.locovei@upt.ro"
+    },
+    {
+        "nume": "Dragoş Buzdugan",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "dragos.buzdugan@upt.ro"
+    },
+    {
+        "nume": "Carmen Opris",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "carmen.opris@upt.ro"
+    },
+    {
+        "nume": "Cristian Turc",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "cristian.turc@upt.ro"
+    },
+    {
+        "nume": "Cosmin Codrean",
+        "titlu": "Prodecan - Conferențiar",
+        "departament": "Departamentul IMF",
+        "email": "cosmin.codrean@upt.ro"
+    },
+    {
+        "nume": "Ion Mitelea",
+        "titlu": "Profesor",
+        "departament": "Departamentul IMF",
+        "email": "ion.mitelea@upt.ro"
+    },
+    {
+        "nume": "Aurel Raduta",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul IMF",
+        "email": "aurel.raduta@upt.ro"
+    },
+    {
+        "nume": "Daniel Stan",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul IMF",
+        "email": "daniel.stan@upt.ro"
+    },
+    {
+        "nume": "Daniel Tunea",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "daniel.tunea@upt.ro"
+    },
+    {
+        "nume": "Danut - Lucian Sosdean",
+        "titlu": "Director departament / Conferențiar",
+        "departament": "Departamentul IMF",
+        "email": "danut.sosdean@upt.ro"
+    },
+    {
+        "nume": "Adrian But",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul IMF",
+        "email": "adrian.but@upt.ro"
+    },
+    {
+        "nume": "Laurentiu Cucuruz",
+        "titlu": "Profesor",
+        "departament": "Departamentul IMF",
+        "email": "laurentiu.cucuruz@upt.ro"
+    },
+    {
+        "nume": "Bogdan Radu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul IMF",
+        "email": "bogdan.radu@upt.ro"
+    },
+    {
+        "nume": "Cristian Cosma",
+        "titlu": "Director departament - Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "cristian.cosma@upt.ro"
+    },
+    {
+        "nume": "George Draghici",
+        "titlu": "Profesor",
+        "departament": "Departamentul IMF",
+        "email": "george.draghici@upt.ro"
+    },
+    {
+        "nume": "Marin Lita",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "marin.lita@upt.ro"
+    },
+    {
+        "nume": "Aurel Tulcan",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul IMF",
+        "email": "aurel.tulcan@upt.ro"
+    },
+    {
+        "nume": "Viorel Serban",
+        "titlu": "Profesor",
+        "departament": "IMF",
+        "email": "viorel.serban@upt.ro"
+    },
+    {
+        "nume": "Livius Udrescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul IMF",
+        "email": "livius.udrescu@upt.ro"
+    },
+    {
+        "nume": "Adrian Dume",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "adrian.dume@upt.ro"
+    },
+    {
+        "nume": "Sebastian Duma",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "sebastian.duma@upt.ro"
+    },
+    {
+        "nume": "Eugen Pamintas",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul IMF",
+        "email": "eugen.pamintas@upt.ro"
+    },
+    {
+        "nume": "Victor Budau",
+        "titlu": "Profesor",
+        "departament": "Departamentul IMF",
+        "email": "victor.budau@upt.ro"
+    },
+    {
+        "nume": "Aurelian Magda",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "aurelian.magda@upt.ro"
+    },
+    {
+        "nume": "Mircea Nicoara",
+        "titlu": "Profesor",
+        "departament": "Departamentul IMF",
+        "email": "mircea.nicoara@upt.ro"
+    },
+    {
+        "nume": "Corneliu Craciunescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul IMF",
+        "email": "corneliu.craciunescu@upt.ro"
+    },
+    {
+        "nume": "Doru Dumbrava",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "doru.dumbrava@upt.ro"
+    },
+    {
+        "nume": "Dorian Ştef",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "dorian.stef@upt.ro"
+    },
+    {
+        "nume": "Mircea Burca",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul IMF",
+        "email": "mircea.burca@upt.ro"
+    },
+    {
+        "nume": "Florin Ferician",
+        "titlu": "Inginer",
+        "departament": "Departamentul IMF",
+        "email": "florin.ferician@upt.ro"
+    },
+    {
+        "nume": "Dragos Utu",
+        "titlu": "Profesor",
+        "departament": "Departamentul IMF",
+        "email": "dragos.utu@upt.ro"
+    },
+    {
+        "nume": "Felicia Banciu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IMF",
+        "email": "felicia.banciu@upt.ro"
+    },
+    {
+        "nume": "Marius iLCA ",
+        "titlu": "Asistent",
+        "departament": "Dep_IM",
+        "email": "marius.ilca@upt.ro"
+    },
+    {
+        "nume": "Corneliu Birtok-Băneasă",
+        "titlu": "Șef lucrări",
+        "departament": "Dep_IM",
+        "email": "corneliu.birtok@upt.ro"
+    },
+    {
+        "nume": "Lucia Vîlceanu",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "lucia.vilceanu@upt.ro"
+    },
+    {
+        "nume": "Teodor Vasiu",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "teodor.vasiu@upt.ro"
+    },
+    {
+        "nume": "Vasile Cioată",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "vasile.cioata@upt.ro"
+    },
+    {
+        "nume": "Gabriela Mihut",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "gabriela.mihut@upt.ro"
+    },
+    {
+        "nume": "Adina Budiul",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "adina.budiul@upt.ro"
+    },
+    {
+        "nume": "Vasile Alexa",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "vasile.alexa@upt.ro"
+    },
+    {
+        "nume": "Cristina Miklos",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "cristina.miklos@upt.ro"
+    },
+    {
+        "nume": "Sorina Serban",
+        "titlu": "Șef Lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "sorina.serban@upt.ro"
+    },
+    {
+        "nume": "Ana Socalici",
+        "titlu": "Profesor",
+        "departament": "Facultatea de Inginerie din Hunedoara",
+        "email": "virginia.socalici@upt.ro"
+    },
+    {
+        "nume": "Camelia Pinca Bretotean",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "camelia.pinca-bretotean@upt.ro"
+    },
+    {
+        "nume": "Marius Benea",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "marius.benea@upt.ro"
+    },
+    {
+        "nume": "Vasile Putan",
+        "titlu": "Director Departament - Șef lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "vasile.putan@upt.ro"
+    },
+    {
+        "nume": "Adrian Gavanescu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "adrian.gavanescu@upt.ro"
+    },
+    {
+        "nume": "Amalia Dascal",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "amalia.dascal@upt.ro"
+    },
+    {
+        "nume": "Teodor Heput",
+        "titlu": "Profesor",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "teodor.heput@upt.ro"
+    },
+    {
+        "nume": "Erika Ardelean",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "erika.ardelean@upt.ro"
+    },
+    {
+        "nume": "Ana Josan",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "ana.josan@upt.ro"
+    },
+    {
+        "nume": "Carmen Alic",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "carmen.alic@upt.ro"
+    },
+    {
+        "nume": "Francisc Weber",
+        "titlu": "Profesor",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "francisc.weber@upt.ro"
+    },
+    {
+        "nume": "Imre Miklos",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "imre.miklos@upt.ro"
+    },
+    {
+        "nume": "Carmen Harau",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "carmen.harau@upt.ro"
+    },
+    {
+        "nume": "Gladiola Chete",
+        "titlu": "Asistent",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "gladiola.chete@upt.ro"
+    },
+    {
+        "nume": "Erika Popa",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "erika.popa@upt.ro"
+    },
+    {
+        "nume": "Mihaela Flori",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "mihaela.flori@upt.ro"
+    },
+    {
+        "nume": "Simion Jitian",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "simion.jitian@upt.ro"
+    },
+    {
+        "nume": "Marius Ardelean",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "marius.ardelean@upt.ro"
+    },
+    {
+        "nume": "Daniela Milostean",
+        "titlu": "Asistent",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "daniela.milostean@upt.ro"
+    },
+    {
+        "nume": "Imre Kiss",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "imre.kiss@upt.ro"
+    },
+    {
+        "nume": "Maria Benea",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "laura.benea@upt.ro"
+    },
+    {
+        "nume": "Sorin Ratiu",
+        "titlu": "Prodecan - Conferentiar",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "sorin.ratiu@upt.ro"
+    },
+    {
+        "nume": "Oana Găianu",
+        "titlu": "Asistent",
+        "departament": "Dep_IEII",
+        "email": "oana.gaianu@upt.ro"
+    },
+    {
+        "nume": "Alexandru Blaj",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "alexandru.blaj@upt.ro"
+    },
+    {
+        "nume": "Cezara Rat",
+        "titlu": "Asistent",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "cezara.rat@upt.ro"
+    },
+    {
+        "nume": "Anca Iordan",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "anca.iordan@upt.ro"
+    },
+    {
+        "nume": "Gabriel Popa",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "gabriel.popa@upt.ro"
+    },
+    {
+        "nume": "Loredana Ghiormez",
+        "titlu": "Asistent",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "loredana.ghiormez@upt.ro"
+    },
+    {
+        "nume": "Sorin Deaconu",
+        "titlu": "Profesor",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "sorin.deaconu@upt.ro"
+    },
+    {
+        "nume": "Marcel Topor",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "marcel.topor@upt.ro"
+    },
+    {
+        "nume": "Corina Cuntan",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "corina.cuntan@upt.ro"
+    },
+    {
+        "nume": "Caius Panoiu",
+        "titlu": "Profesor",
+        "departament": "Facultatea de Inginerie din Hunedoara",
+        "email": "caius.panoiu@upt.ro"
+    },
+    {
+        "nume": "Ludovic Lemle",
+        "titlu": "Profesor",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "dan.lemle@upt.ro"
+    },
+    {
+        "nume": "Adela Berdie",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "adela.berdie@upt.ro"
+    },
+    {
+        "nume": "Diana Bistrian",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "diana.bistrian@upt.ro"
+    },
+    {
+        "nume": "Angela Iagar",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "angela.iagar@upt.ro"
+    },
+    {
+        "nume": "Corina Dinis",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "corina.dinis@upt.ro"
+    },
+    {
+        "nume": "Petre Gherman",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "lucian.gherman@upt.ro"
+    },
+    {
+        "nume": "Gelu Tirian",
+        "titlu": "Decan - Conferențiar",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "ovidiu.tirian@upt.ro"
+    },
+    {
+        "nume": "Constantin Grigore",
+        "titlu": "Asistent",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "constantin.grigore@upt.ro"
+    },
+    {
+        "nume": "Mihaela Osaci",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "mihaela.osaci@upt.ro"
+    },
+    {
+        "nume": "Cosmina Illes",
+        "titlu": "Asistent de cercetare",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "cosmina.illes@upt.ro"
+    },
+    {
+        "nume": "Raluca Rob",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "raluca.rob@upt.ro"
+    },
+    {
+        "nume": "Adrian Bleoca",
+        "titlu": "Asistent",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "adrian.bleoca@upt.ro"
+    },
+    {
+        "nume": "Diana Stoica",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "diana.stoica@upt.ro"
+    },
+    {
+        "nume": "Mihaela Popa",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "mihaela.popa@upt.ro"
+    },
+    {
+        "nume": "Stela Rusu-Anghel",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "stela.rusu-anghel@upt.ro"
+    },
+    {
+        "nume": "Ionel Muscalagiu",
+        "titlu": "Director departament - Conferențiar",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "ionel.muscalagiu@upt.ro"
+    },
+    {
+        "nume": "Manuela Panoiu",
+        "titlu": "Profesor",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "manuela.panoiu@upt.ro"
+    },
+    {
+        "nume": "Ioan Baciu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "ioan.baciu@upt.ro"
+    },
+    {
+        "nume": "Cristian Abrudean",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul IEII Hunedoara",
+        "email": "cristian.abrudean@upt.ro"
+    },
+    {
+        "nume": "Ioana Popescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "ioana.popescu@upt.ro"
+    },
+    {
+        "nume": "Alexandra Rusu",
+        "titlu": "Secretar dep.",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "alexandra.rusu@upt.ro"
+    },
+    {
+        "nume": "Constantin Orlescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "mircea.orlescu@upt.ro"
+    },
+    {
+        "nume": "Daniela Popescu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "daniela.popescu@upt.ro"
+    },
+    {
+        "nume": "Laura Constantinescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "laura.constantinescu@upt.ro"
+    },
+    {
+        "nume": "Erika Beilicci",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "erika.beilicci@upt.ro"
+    },
+    {
+        "nume": "Alice Ghitescu",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "alice.ghitescu@upt.ro"
+    },
+    {
+        "nume": "Cristian Stăniloiu Theis",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "cristian.staniloiu-theis@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Rogobete",
+        "titlu": "Profesor",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "gheorghe.rogobete@upt.ro"
+    },
+    {
+        "nume": "Ioan Şumălan",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "ioan.sumalan@upt.ro"
+    },
+    {
+        "nume": "Rares Halbac Cotoară Zamfir",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "rares.halbac-cotoara-zamfir@upt.ro"
+    },
+    {
+        "nume": "Șerban-Vlad Nicoara",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "serban.nicoara@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Popa",
+        "titlu": "Profesor",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "gheorghe.popa@upt.ro"
+    },
+    {
+        "nume": "Robert Beilicci",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "robert.beilicci@upt.ro"
+    },
+    {
+        "nume": "Codruţa Bădăluţă-Minda",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "codruta.badaluta-minda@upt.ro"
+    },
+    {
+        "nume": "Alina Gîrbaciu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "alina.girbaciu@upt.ro"
+    },
+    {
+        "nume": "Vasile Gherman",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "vasile.gherman@upt.ro"
+    },
+    {
+        "nume": "Albert Constantin",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "albert.constantin@upt.ro"
+    },
+    {
+        "nume": "Teodor Man",
+        "titlu": "Profesor",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "eugen.man@upt.ro"
+    },
+    {
+        "nume": "Adia Grozav",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "adia.grozav@upt.ro"
+    },
+    {
+        "nume": "Mihaela Pisleaga",
+        "titlu": "Asistent",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "mihaela.pisleaga@upt.ro"
+    },
+    {
+        "nume": "Corneliu Podoleanu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "corneliu.podoleanu@upt.ro"
+    },
+    {
+        "nume": "Gabriel Eles",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "gabriel.eles@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Creţu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "gheorghe.cretu@upt.ro"
+    },
+    {
+        "nume": "Alina Popescu Busan",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "alina.popescu-busan@upt.ro"
+    },
+    {
+        "nume": "Ioan David",
+        "titlu": "Profesor",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "ioan.david@upt.ro"
+    },
+    {
+        "nume": "Mircea Visescu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "mircea.visescu@upt.ro"
+    },
+    {
+        "nume": "Camelia Ştefănescu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "camelia.stefanescu@upt.ro"
+    },
+    {
+        "nume": "Constantin Florescu",
+        "titlu": "Director departament - Profesor",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "constantin.florescu@upt.ro"
+    },
+    {
+        "nume": "Alina Cretan",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "alina.cretan@upt.ro"
+    },
+    {
+        "nume": "Iacob Nemes",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "iacob.nemes@upt.ro"
+    },
+    {
+        "nume": "Ion Mirel",
+        "titlu": "Profesor",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "ion.mirel@upt.ro"
+    },
+    {
+        "nume": "Cristian Girbaciu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "cristian.girbaciu@upt.ro"
+    },
+    {
+        "nume": "Adrian Carabeţ",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "adrian.carabet@upt.ro"
+    },
+    {
+        "nume": "MIHAELA VARGA",
+        "titlu": "Lector",
+        "departament": "Dep_EFS",
+        "email": "mihaela.varga@upt.ro"
+    },
+    {
+        "nume": "Alin Molcuţ",
+        "titlu": "Lector",
+        "departament": "Dep_EFS",
+        "email": "alin.molcut@upt.ro"
+    },
+    {
+        "nume": "Dan Ionescu",
+        "titlu": "Director departament - Lector",
+        "departament": "Departamentul Educaţie Fizică şi Sport",
+        "email": "dan.ionescu@upt.ro"
+    },
+    {
+        "nume": "Ovidiu Olariu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Educaţie Fizică şi Sport",
+        "email": "ovidiu.olariu@upt.ro"
+    },
+    {
+        "nume": "Gabriela Gui-Bachner",
+        "titlu": "Asistent universitar",
+        "departament": "Departamentul Educaţie Fizică şi Sport",
+        "email": "gabriela.gui-bachner@upt.ro"
+    },
+    {
+        "nume": "Mariana Chirila",
+        "titlu": "Lector",
+        "departament": "Departamentul Educaţie Fizică şi Sport",
+        "email": "mariana.chirila@upt.ro"
+    },
+    {
+        "nume": "Mihai Alexandru",
+        "titlu": "Asistent universitar",
+        "departament": "Departamentul Educaţie Fizică şi Sport",
+        "email": "mihai.alexandru@upt.ro"
+    },
+    {
+        "nume": "Daniel Chirila",
+        "titlu": "Lector",
+        "departament": "Departamentul Educaţie Fizică şi Sport",
+        "email": "daniel.chirila@upt.ro"
+    },
+    {
+        "nume": "Eduard Bianu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Educaţie Fizică şi Sport",
+        "email": "eduard.bianu@upt.ro"
+    },
+    {
+        "nume": "Alecu Ciorsac",
+        "titlu": "Lector",
+        "departament": "Departamentul Educaţie Fizică şi Sport",
+        "email": "alecu.ciorsac@upt.ro"
+    },
+    {
+        "nume": "Bogdan Almajan-Guța",
+        "titlu": "Lector",
+        "departament": "Departamentul Educaţie Fizică şi Sport",
+        "email": "bogdan.almajan-guta@upt.ro"
+    },
+    {
+        "nume": "Sorin Sarandan",
+        "titlu": "Asistent",
+        "departament": "Departamentul Educaţie Fizică şi Sport",
+        "email": "sorin.sarandan@upt.ro"
+    },
+    {
+        "nume": "Tudor Raileanu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Educaţie Fizică şi Sport",
+        "email": "tudor.raileanu@upt.ro"
+    },
+    {
+        "nume": "Diana Duma",
+        "titlu": "Asistent",
+        "departament": "Departamentul CMMC",
+        "email": "diana.duma@upt.ro"
+    },
+    {
+        "nume": "Raluca Buzatu",
+        "titlu": "Asistent",
+        "departament": "Departamentul CMMC",
+        "email": "raluca.buzatu@upt.ro"
+    },
+    {
+        "nume": "Cristian Vulcu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CMMC",
+        "email": "cristian.vulcu@upt.ro"
+    },
+    {
+        "nume": "Andra Viasu",
+        "titlu": "Secretar dep.",
+        "departament": "Departamentul CMMC",
+        "email": "andra.viasu@upt.ro"
+    },
+    {
+        "nume": "Daniel-Viorel Ungureanu",
+        "titlu": "Profesor",
+        "departament": "Departamentul CMMC",
+        "email": "viorel.ungureanu@upt.ro"
+    },
+    {
+        "nume": "Aurel Stratan",
+        "titlu": "Profesor",
+        "departament": "Departamentul CMMC",
+        "email": "aurel.stratan@upt.ro"
+    },
+    {
+        "nume": "Ramona Gabor(Cas. Szabo)",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CMMC",
+        "email": "ramona.gabor-szabo@upt.ro"
+    },
+    {
+        "nume": "Dan Pintea",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CMMC",
+        "email": "dan.pintea@upt.ro"
+    },
+    {
+        "nume": "Daniel Grecea",
+        "titlu": "Director departament - Profesor",
+        "departament": "Departamentul CMMC",
+        "email": "daniel.grecea@upt.ro"
+    },
+    {
+        "nume": "Dan Dubina",
+        "titlu": "Profesor",
+        "departament": "Departamentul CMMC",
+        "email": "dan.dubina@upt.ro"
+    },
+    {
+        "nume": "Adrian Dogariu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CMMC",
+        "email": "adrian.dogariu@upt.ro"
+    },
+    {
+        "nume": "Mirela Achim",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CMMC",
+        "email": "mirela.achim@upt.ro"
+    },
+    {
+        "nume": "Radu Bancila",
+        "titlu": "Profesor",
+        "departament": "Departamentul CMMC",
+        "email": "radu.bancila@upt.ro"
+    },
+    {
+        "nume": "Nicolae-Andrei Crișan",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CMMC",
+        "email": "andrei.crisan@upt.ro"
+    },
+    {
+        "nume": "Ioan Marginean",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul CMMC",
+        "email": "ioan.marginean@upt.ro"
+    },
+    {
+        "nume": "Adrian Ciutina",
+        "titlu": "Profesor",
+        "departament": "Departamentul CMMC",
+        "email": "adrian.ciutina@upt.ro"
+    },
+    {
+        "nume": "Florea Dinu",
+        "titlu": "Profesor",
+        "departament": "Departamentul CMMC",
+        "email": "florea.dinu@upt.ro"
+    },
+    {
+        "nume": "Adrian Ivan",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CMMC",
+        "email": "adrian.ivan@upt.ro"
+    },
+    {
+        "nume": "Mircea Georgescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CMMC",
+        "email": "mircea.georgescu@upt.ro"
+    },
+    {
+        "nume": "Silvia Hernea",
+        "titlu": "Asistent",
+        "departament": "Departamentul CMMC",
+        "email": "silvia.hernea@upt.ro"
+    },
+    {
+        "nume": "Ioan Both",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CMMC",
+        "email": "ioan.both@upt.ro"
+    },
+    {
+        "nume": "Edward Petzek",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CMMC",
+        "email": "edward.petzek@upt.ro"
+    },
+    {
+        "nume": "Raul Zaharia",
+        "titlu": "Decan - Profesor",
+        "departament": "Facultatea Construcții",
+        "email": "raul.zaharia@upt.ro"
+    },
+    {
+        "nume": "Calin Neagu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CMMC",
+        "email": "calin.neagu@upt.ro"
+    },
+    {
+        "nume": "Adriana Chesoan",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul CMMC",
+        "email": "adriana.chesoan@upt.ro"
+    },
+    {
+        "nume": "KEVIN RAYNAUD",
+        "titlu": "Lector",
+        "departament": "Departamentul Comunicare şi Limbi Străine ",
+        "email": "kevin.raynaud@upt.ro"
+    },
+    {
+        "nume": "Maria-Cristina Miuțescu",
+        "titlu": "Asistent",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "cristina.miutescu@upt.ro"
+    },
+    {
+        "nume": "Tom Reipschläger",
+        "titlu": "Asistent",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "tom.reipschlager@upt.ro"
+    },
+    {
+        "nume": "Marie Pichon",
+        "titlu": "Lector",
+        "departament": "Dep_CLS",
+        "email": "marie.pichon@upt.ro"
+    },
+    {
+        "nume": "LUCIANA Penteliuc-Cotosman",
+        "titlu": "Asistent",
+        "departament": "Dep_CLS",
+        "email": "luciana.penteliuc-cotosman@upt.ro"
+    },
+    {
+        "nume": "Florence Mourlon",
+        "titlu": "Lector",
+        "departament": "Dep_CLS",
+        "email": "florence.mourlon@upt.ro"
+    },
+    {
+        "nume": "Miroslav Stanici",
+        "titlu": "Asistent",
+        "departament": "Dep_CLS",
+        "email": "miroslav.stanici@upt.ro"
+    },
+    {
+        "nume": "Adela Popa",
+        "titlu": "Asistent",
+        "departament": "Dep_CLS",
+        "email": "adela.popa@upt.ro"
+    },
+    {
+        "nume": "Adina Tîmplaru",
+        "titlu": "Asistent",
+        "departament": "Dep_CLS",
+        "email": "adina.timplaru@upt.ro"
+    },
+    {
+        "nume": "Sabina Decarlo",
+        "titlu": "Lector",
+        "departament": "Dep_CLS",
+        "email": "sabina.decarlo@upt.ro"
+    },
+    {
+        "nume": "Liliana Cismariu",
+        "titlu": "Asistent",
+        "departament": "Dep_CLS",
+        "email": "liliana.cismariu@upt.ro"
+    },
+    {
+        "nume": "Ana Dascălu-Romițan",
+        "titlu": "Lector",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "ana.dascalu@upt.ro"
+    },
+    {
+        "nume": "Roxana Ghiță",
+        "titlu": "Asistent",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "roxana.ghita@upt.ro"
+    },
+    {
+        "nume": "Andreea Pele",
+        "titlu": "Asistent",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "andreea.pele@upt.ro"
+    },
+    {
+        "nume": "Daniel Ciurel",
+        "titlu": "Lector",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "daniel.ciurel@upt.ro"
+    },
+    {
+        "nume": "Letitia Costea",
+        "titlu": "Asistent",
+        "departament": "Dep. Comunicare şi Limbi Străine ",
+        "email": "letitia.costea@upt.ro"
+    },
+    {
+        "nume": "Andrea Kriston",
+        "titlu": "Lector",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "andrea.kriston@upt.ro"
+    },
+    {
+        "nume": "Raluca Ciortea",
+        "titlu": "Asistent",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "raluca.ciortea@upt.ro"
+    },
+    {
+        "nume": "Claudia Stoian",
+        "titlu": "Șef Birou Erasmus+ - Lector",
+        "departament": "Relații Internaționale - Biroul Erasmus+ - Științe ale Comunicăr",
+        "email": "claudia.stoian@upt.ro"
+    },
+    {
+        "nume": "Mihaela Popescu",
+        "titlu": "Sef Birou Marketing",
+        "departament": "Biblioteca Centrala- Compartiment Marketing",
+        "email": "mihaela.popescu@upt.ro"
+    },
+    {
+        "nume": "Marion Cohen-Vida",
+        "titlu": "Lector",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "marion.cohen-vida@upt.ro"
+    },
+    {
+        "nume": "Vasile Gherhes",
+        "titlu": "Director departament - Profesor",
+        "departament": "Dep. Comunicare şi Limbi Străine ",
+        "email": "vasile.gherhes@upt.ro"
+    },
+    {
+        "nume": "Annamaria Kilyeni",
+        "titlu": "Lector",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "annamaria.kilyeni@upt.ro"
+    },
+    {
+        "nume": "Adina Palea",
+        "titlu": "Lector",
+        "departament": "Dep. Comunicare şi Limbi Străine ",
+        "email": "adina.palea@upt.ro"
+    },
+    {
+        "nume": "Delia Tanase",
+        "titlu": "Lector",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "delia.tanase@upt.ro"
+    },
+    {
+        "nume": "Marcela Farcasiu",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "marcela.farcasiu@upt.ro"
+    },
+    {
+        "nume": "Andreea Ruthner",
+        "titlu": "Asistent",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "andreea.ruthner@upt.ro"
+    },
+    {
+        "nume": "Anca Cartis",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "anca.cartis@upt.ro"
+    },
+    {
+        "nume": "Daniel Dejica",
+        "titlu": "Decan - Profesor",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "daniel.dejica@upt.ro"
+    },
+    {
+        "nume": "Lavinia Suciu",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "lavinia.suciu@upt.ro"
+    },
+    {
+        "nume": "Claudia Constantin",
+        "titlu": "Asistent",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "claudia.constantin@upt.ro"
+    },
+    {
+        "nume": "Mirela Pop",
+        "titlu": "Profesor",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "mirela.pop@upt.ro"
+    },
+    {
+        "nume": "Simona Simon",
+        "titlu": "Prodecan - Conferențiar",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "simona.simon@upt.ro"
+    },
+    {
+        "nume": "Cosmin Baias",
+        "titlu": "Lector",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "cosmin.baias@upt.ro"
+    },
+    {
+        "nume": "Ruxandra Buglea",
+        "titlu": "Asistent",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "ruxandra.buglea@upt.ro"
+    },
+    {
+        "nume": "Gabriel-Mugurel Dragomir",
+        "titlu": "Director departament - Conferențiar",
+        "departament": "C. Pregatirea Personalului Didactic",
+        "email": "mugur.dragomir@upt.ro"
+    },
+    {
+        "nume": "Sorin Suciu",
+        "titlu": "Lector",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "sorin.suciu@upt.ro"
+    },
+    {
+        "nume": "Dana Grosseck",
+        "titlu": "Lector",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "dana.grosseck@upt.ro"
+    },
+    {
+        "nume": "Mariana Cernicova",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Comunicare şi Limbi Străine",
+        "email": "mariana.cernicova@upt.ro"
+    },
+    {
+        "nume": "Anca Moscovici",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul CCTFC",
+        "email": "anca.moscovici@upt.ro"
+    },
+    {
+        "nume": "Andrei-Roman Forton",
+        "titlu": "Asistent",
+        "departament": "Departamentul CCTFC",
+        "email": "andrei.forton@upt.ro"
+    },
+    {
+        "nume": "Sorin Herban",
+        "titlu": "Prodecan - Profesor",
+        "departament": "Facultatea Construcții",
+        "email": "sorin.herban@upt.ro"
+    },
+    {
+        "nume": "Florin Belc",
+        "titlu": "Director departament - Profesor",
+        "departament": "Departamentul CCTFC",
+        "email": "florin.belc@upt.ro"
+    },
+    {
+        "nume": "Ion Bogdan",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CCTFC",
+        "email": "ion.bogdan@upt.ro"
+    },
+    {
+        "nume": "Beatrice Vîlceanu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CCTFC",
+        "email": "beatrice.vilceanu@upt.ro"
+    },
+    {
+        "nume": "Luiza Roman",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CCTFC",
+        "email": "luiza.roman@upt.ro"
+    },
+    {
+        "nume": "Ion Costescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul CCTFC",
+        "email": "ion.costescu@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Lucaci",
+        "titlu": "Profesor",
+        "departament": "Departamentul CCTFC",
+        "email": "gheorghe.lucaci@upt.ro"
+    },
+    {
+        "nume": "Cosmin Musat",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CCTFC",
+        "email": "cosmin.musat@upt.ro"
+    },
+    {
+        "nume": "Marin Marin",
+        "titlu": "Profesor",
+        "departament": "Departamentul CCTFC",
+        "email": "marin.marin@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Belea",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CCTFC",
+        "email": "gheorghe.belea@upt.ro"
+    },
+    {
+        "nume": "Teodor Marc",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CCTFC",
+        "email": "paul.marc@upt.ro"
+    },
+    {
+        "nume": "Alina Bala",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CCTFC",
+        "email": "alina.bala@upt.ro"
+    },
+    {
+        "nume": "Adrian Alionescu",
+        "titlu": "Doctorand",
+        "departament": "Departamentul CCTFC",
+        "email": "adrian.alionescu@upt.ro"
+    },
+    {
+        "nume": "Viorica David",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CCTFC",
+        "email": "viorica.david@upt.ro"
+    },
+    {
+        "nume": "Cristina Voicu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CCTFC",
+        "email": "cristina.voicu@upt.ro"
+    },
+    {
+        "nume": "Carmen Grecea",
+        "titlu": "Profesor",
+        "departament": "Departamentul CCTFC",
+        "email": "carmen.grecea@upt.ro"
+    },
+    {
+        "nume": "Virgil Haida",
+        "titlu": "Profesor",
+        "departament": "Departamentul CCTFC",
+        "email": "virgil.haida@upt.ro"
+    },
+    {
+        "nume": "Georgiana Rusu",
+        "titlu": "Doctorand",
+        "departament": "Departamentul CCTFC",
+        "email": "georgiana.rusu@upt.ro"
+    },
+    {
+        "nume": "Monica Mirea",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CCTFC",
+        "email": "monica.mirea@upt.ro"
+    },
+    {
+        "nume": "Floarea Brebu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CCTFC",
+        "email": "floarea.brebu@upt.ro"
+    },
+    {
+        "nume": "Roberta Gridan",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CCTFC",
+        "email": "roberta.gridan@upt.ro"
+    },
+    {
+        "nume": "Alexandru Herman",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CCTFC",
+        "email": "alexandru.herman@upt.ro"
+    },
+    {
+        "nume": "Ciprian Costescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CCTFC",
+        "email": "ciprian.costescu@upt.ro"
+    },
+    {
+        "nume": "Octavian Roman",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CCTFC",
+        "email": "octavian.roman@upt.ro"
+    },
+    {
+        "nume": "Ioan Boldurean",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CCTFC",
+        "email": "ioan.boldurean@upt.ro"
+    },
+    {
+        "nume": "Alexandra Ciopec",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CCTFC",
+        "email": "alexandra.ciopec@upt.ro"
+    },
+    {
+        "nume": "OANA-DANIELA MOCANU",
+        "titlu": "Secretar",
+        "departament": "Departamentul - Constructii Civile si Instalatii",
+        "email": "oana-daniela.mocanu@upt.ro"
+    },
+    {
+        "nume": "Cristina Marincu",
+        "titlu": "Asistent",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "cristina.marincu@upt.ro"
+    },
+    {
+        "nume": "Adrian Ţenchea",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "adrian.tenchea@upt.ro"
+    },
+    {
+        "nume": "Alexandru Dorca",
+        "titlu": "Asistent",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "alexandru.dorca@upt.ro"
+    },
+    {
+        "nume": "Mihai Cinca",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "mihai.cinca@upt.ro"
+    },
+    {
+        "nume": "Marina Lute",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "marina.lute@upt.ro"
+    },
+    {
+        "nume": "Cristian Pacurar",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "cristian.pacurar@upt.ro"
+    },
+    {
+        "nume": "Corneliu Bob",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "corneliu.bob@upt.ro"
+    },
+    {
+        "nume": "Catalin Badea",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "catalin.badea@upt.ro"
+    },
+    {
+        "nume": "Luminita Fekete Nagy",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "luminita.fekete-nagy@upt.ro"
+    },
+    {
+        "nume": "Tudor Clipii",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "tudor.clipii@upt.ro"
+    },
+    {
+        "nume": "Ioan Sarbu",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "ioan.sarbu@upt.ro"
+    },
+    {
+        "nume": "Anton Iosif",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "anton.iosif@upt.ro"
+    },
+    {
+        "nume": "Cornel Furdui",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "cornel.furdui@upt.ro"
+    },
+    {
+        "nume": "Marius Adam",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "marius.adam@upt.ro"
+    },
+    {
+        "nume": "Florin Lacatusu",
+        "titlu": "Doctorand",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "florin.lacatusu@upt.ro"
+    },
+    {
+        "nume": "Carla Todut",
+        "titlu": "Asistent",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "carla.todut@upt.ro"
+    },
+    {
+        "nume": "Agneta Tudor",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "agneta.tudor@upt.ro"
+    },
+    {
+        "nume": "Dan Tudor",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "dan.tudor@upt.ro"
+    },
+    {
+        "nume": "Cosmin Daescu",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "cosmin.daescu@upt.ro"
+    },
+    {
+        "nume": "Adriana Tokar",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "adriana.tokar@upt.ro"
+    },
+    {
+        "nume": "Dan Diaconu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "dan.diaconu@upt.ro"
+    },
+    {
+        "nume": "Eugen Jebelean",
+        "titlu": "Conferentiar",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "eugen.jebelean@upt.ro"
+    },
+    {
+        "nume": "Petre Ostafe",
+        "titlu": "Asistent",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "gabriel.ostafe@upt.ro"
+    },
+    {
+        "nume": "Ioan Borza",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "ioan.borza@upt.ro"
+    },
+    {
+        "nume": "Codruț Floruț",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "codrut.florut@upt.ro"
+    },
+    {
+        "nume": "Silviana Brata",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "silviana.brata@upt.ro"
+    },
+    {
+        "nume": "Iosif Buchman",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "iosif.buchman@upt.ro"
+    },
+    {
+        "nume": "Liana Iures",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "liana.iures@upt.ro"
+    },
+    {
+        "nume": "Calin Sebarchievici",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "calin.sebarchievici@upt.ro"
+    },
+    {
+        "nume": "Adrian Retezan",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "adrian.retezan@upt.ro"
+    },
+    {
+        "nume": "Adrian Bota",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "adrian.bota@upt.ro"
+    },
+    {
+        "nume": "Ovidiu Marsu",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "ovidiu.marsu@upt.ro"
+    },
+    {
+        "nume": "Cornel Jiva",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "cornel.jiva@upt.ro"
+    },
+    {
+        "nume": "Stefan Iosip-Mot",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "stefan.iosip-mot@upt.ro"
+    },
+    {
+        "nume": "Sorin Dan",
+        "titlu": "Director departament - Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "sorin.dan@upt.ro"
+    },
+    {
+        "nume": "Tamas Nagy Gyorgy",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "tamas.nagy-gyorgy@upt.ro"
+    },
+    {
+        "nume": "Simon Pescari",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "simon.pescari@upt.ro"
+    },
+    {
+        "nume": "Emilian Valea",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "emilian.valea@upt.ro"
+    },
+    {
+        "nume": "Istvan Demeter",
+        "titlu": "Asistent",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "istvan.demeter@upt.ro"
+    },
+    {
+        "nume": "Olga Bancea",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "olga.bancea@upt.ro"
+    },
+    {
+        "nume": "Sevastean Ianca",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "sevastean.ianca@upt.ro"
+    },
+    {
+        "nume": "Daniel Dan",
+        "titlu": "Prorector",
+        "departament": "Relații internaționale",
+        "email": "daniel.dan@upt.ro"
+    },
+    {
+        "nume": "Remus Chendes",
+        "titlu": "Asistent",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "remus.chendes@upt.ro"
+    },
+    {
+        "nume": "Dănuţ Tokar",
+        "titlu": "Asistent",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "danut.tokar@upt.ro"
+    },
+    {
+        "nume": "Valeriu Stoian",
+        "titlu": "Profesor",
+        "departament": "Dep. Construcţii Civile şi Instalaţii",
+        "email": "valeriu.stoian@upt.ro"
+    },
+    {
+        "nume": "Mihaela Pisleaga",
+        "titlu": "Asistent",
+        "departament": "Departamentul Hidrotehnică",
+        "email": "mihaela.pisleaga@upt.ro"
+    },
+    {
+        "nume": "VALENTIN GORCEA",
+        "titlu": "Asistent",
+        "departament": "Departamentul Automatica - Informatica Aplicata",
+        "email": "valentin.gorcea@upt.ro"
+    },
+    {
+        "nume": "MIRCEA COCIUBA",
+        "titlu": "Asistent",
+        "departament": "Departamentul Automatica - Informatica Aplicata",
+        "email": "mircea.cociuba@upt.ro"
+    },
+    {
+        "nume": "DANIELA RUSU",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "daniela.rusu@upt.ro"
+    },
+    {
+        "nume": "Alexandru Iovanovici",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "alexandru.iovanovici@upt.ro"
+    },
+    {
+        "nume": "Valer Bocan ",
+        "titlu": "Șef lucrări",
+        "departament": "Dep_CALC",
+        "email": "valer.bocan@upt.ro"
+    },
+    {
+        "nume": "OANA MARIA GUGEA",
+        "titlu": "Asistent",
+        "departament": "Dep_CALC",
+        "email": "oanamaria.gugea@upt.ro"
+    },
+    {
+        "nume": "DARIAN ONCHIS",
+        "titlu": "Conferențiar",
+        "departament": "Dep_CALC",
+        "email": "darian.onchis@upt.ro"
+    },
+    {
+        "nume": "Călin-Adrian Popa",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "calin-adrian.popa@upt.ro"
+    },
+    {
+        "nume": "Oana Iulia Casandra Holotescu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "casandra.holotescu@upt.ro"
+    },
+    {
+        "nume": "COSMIN MARȘAVINA",
+        "titlu": "Asistent",
+        "departament": "Dep_CALC",
+        "email": "cosmin.marsavina@upt.ro"
+    },
+    {
+        "nume": "Sergiu Nimară",
+        "titlu": "Asistent",
+        "departament": "Facultatea Automatică şi Calculatoare",
+        "email": "sergiu.nimara@upt.ro"
+    },
+    {
+        "nume": "Alexandru Bozdog",
+        "titlu": "Asistent",
+        "departament": "Calculatoare",
+        "email": "alexandru.bozdog@upt.ro"
+    },
+    {
+        "nume": "Eugenia Capota",
+        "titlu": "Asistent",
+        "departament": "Calculatoare si Tehnologia Informatiei",
+        "email": "eugenia.capota@upt.ro"
+    },
+    {
+        "nume": "Mădălin Pop",
+        "titlu": "Asistent",
+        "departament": "Calculatoare",
+        "email": "madalin.pop@upt.ro"
+    },
+    {
+        "nume": "Darius Turcian",
+        "titlu": "ASISTENT",
+        "departament": "CTI",
+        "email": "darius.turcian@upt.ro"
+    },
+    {
+        "nume": "Cristian Ruican",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "cristian.ruican@upt.ro"
+    },
+    {
+        "nume": "Valentin Stângaciu",
+        "titlu": "Șef lucrari",
+        "departament": "Departamentul Calculatoare",
+        "email": "valentin.stangaciu@upt.ro"
+    },
+    {
+        "nume": "Cristina Stângaciu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "cristina.stangaciu@upt.ro"
+    },
+    {
+        "nume": "Razvan Aciu",
+        "titlu": "Sef Lucrari",
+        "departament": "Departamentul Calculatoare",
+        "email": "razvan.aciu@upt.ro"
+    },
+    {
+        "nume": "Petra Csereoka",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "petra.csereoka@upt.ro"
+    },
+    {
+        "nume": "Alexandru Topirceanu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "alexandru.topirceanu@upt.ro"
+    },
+    {
+        "nume": "Horia Ciocârlie",
+        "titlu": "Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "horia.ciocarlie@upt.ro"
+    },
+    {
+        "nume": "Flavius Oprițoiu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "flavius.opritoiu@upt.ro"
+    },
+    {
+        "nume": "Codruța Istin",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "codruta.istin@upt.ro"
+    },
+    {
+        "nume": "Marius Minea",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "marius.minea@upt.ro"
+    },
+    {
+        "nume": "Iulia Stratulat",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "iulia.stratulat@upt.ro"
+    },
+    {
+        "nume": "Ioana Șora",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "ioana.sora@upt.ro"
+    },
+    {
+        "nume": "Ciprian-Bogdan Chirila",
+        "titlu": "Prodecan - Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "ciprian.chirila@upt.ro"
+    },
+    {
+        "nume": "Sebastian Fuicu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "sebastian.fuicu@upt.ro"
+    },
+    {
+        "nume": "Daniela Stănescu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "daniela.stanescu@upt.ro"
+    },
+    {
+        "nume": "Horațiu Moldovan",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "horatiu.moldovan@upt.ro"
+    },
+    {
+        "nume": "Oana-Maria Caus",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "oana.caus@upt.ro"
+    },
+    {
+        "nume": "Sorin-Ioan Babii",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "sorin.babii@upt.ro"
+    },
+    {
+        "nume": "Cosmin Cernazanu-Glavan",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "cosmin.cernazanu-glavan@upt.ro"
+    },
+    {
+        "nume": "Petru Mihancea",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "petru.mihancea@upt.ro"
+    },
+    {
+        "nume": "Radu Marinescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "radu.marinescu@upt.ro"
+    },
+    {
+        "nume": "Mirella Mioc",
+        "titlu": "Șef lucrari",
+        "departament": "Departamentul Calculatoare",
+        "email": "mirella.mioc@upt.ro"
+    },
+    {
+        "nume": "Lucian Prodan",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "lucian.prodan@upt.ro"
+    },
+    {
+        "nume": "Ștefan Holban",
+        "titlu": "Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "stefan.holban@upt.ro"
+    },
+    {
+        "nume": "Cristina Marinescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "cristina.marinescu@upt.ro"
+    },
+    {
+        "nume": "Oana Amaricăi-Boncalo",
+        "titlu": "Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "oana.amaricai-boncalo@upt.ro"
+    },
+    {
+        "nume": "Gabriela Bobu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "gabriela.bobu@upt.ro"
+    },
+    {
+        "nume": "Sebastian Glita-Catina",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "sebastian.glita-catina@upt.ro"
+    },
+    {
+        "nume": "Mircea Stratulat",
+        "titlu": "Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "mircea.stratulat@upt.ro"
+    },
+    {
+        "nume": "Vladimir-Ioan Crețu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "vladimir.cretu@upt.ro"
+    },
+    {
+        "nume": "Mihai Micea",
+        "titlu": "Director departament - Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "mihai.micea@upt.ro"
+    },
+    {
+        "nume": "Răzvan-Virgil Bogdan",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "razvan.bogdan@upt.ro"
+    },
+    {
+        "nume": "Marius Crișan",
+        "titlu": "Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "marius.crisan@upt.ro"
+    },
+    {
+        "nume": "Ioan Jurca",
+        "titlu": "Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "ioan.jurca@upt.ro"
+    },
+    {
+        "nume": "Dan Pescaru",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "dan.pescaru@upt.ro"
+    },
+    {
+        "nume": "Ionel Jian",
+        "titlu": "Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "ionel.jian@upt.ro"
+    },
+    {
+        "nume": "Marius-George Marcu",
+        "titlu": "Decan - Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "marius.marcu@upt.ro"
+    },
+    {
+        "nume": "Mircea Vlăduțiu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "mircea.vladutiu@upt.ro"
+    },
+    {
+        "nume": "Dan Chiciudean",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "dan.chiciudean@upt.ro"
+    },
+    {
+        "nume": "Carmen Holotescu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "carmen.holotescu@upt.ro"
+    },
+    {
+        "nume": "Bogdan Stratulat",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "bogdan.stratulat@upt.ro"
+    },
+    {
+        "nume": "Mihai Udrescu-Milosav",
+        "titlu": "Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "mihai.udrescu-milosav@upt.ro"
+    },
+    {
+        "nume": "Ovidiu Pârvu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "ovidiu.parvu@upt.ro"
+    },
+    {
+        "nume": "Versavia Ancușa",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "versavia.ancusa@upt.ro"
+    },
+    {
+        "nume": "Alexandru Amaricăi-Boncalo",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "alexandru.amaricai-boncalo@upt.ro"
+    },
+    {
+        "nume": "Alin Adrian Anton",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "alin.anton@upt.ro"
+    },
+    {
+        "nume": "Doru Todinca",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Calculatoare",
+        "email": "doru.todinca@upt.ro"
+    },
+    {
+        "nume": "Adrian Mihailescu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "adrian.mihailescu@upt.ro"
+    },
+    {
+        "nume": "Răzvan-Dorel Cioargă",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "razvan.cioarga@upt.ro"
+    },
+    {
+        "nume": "Dan Călin Cosma",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "dan.cosma@upt.ro"
+    },
+    {
+        "nume": "Mircea Popa",
+        "titlu": "Profesor",
+        "departament": "Departamentul Calculatoare",
+        "email": "mircea.popa@upt.ro"
+    },
+    {
+        "nume": "OTILIA TUDORAN",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "otilia.tudoran@upt.ro"
+    },
+    {
+        "nume": "Dragomir Drăgan",
+        "titlu": "Asistent",
+        "departament": "Dep_ARH",
+        "email": "dragomir.dragan@upt.ro"
+    },
+    {
+        "nume": "Bogdan Isopescu",
+        "titlu": "Asistent",
+        "departament": "Dep_ARH",
+        "email": "bogdan.isopescu@upt.ro"
+    },
+    {
+        "nume": "Alexandru Botici",
+        "titlu": "Asistent",
+        "departament": "Dep_ARH",
+        "email": "alexandru.botici@upt.ro"
+    },
+    {
+        "nume": "Iasmina Onescu",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "iasmina.onescu@upt.ro"
+    },
+    {
+        "nume": "Ileana Kisilewicz",
+        "titlu": "Conferențiar",
+        "departament": "Dep_ARH",
+        "email": "ileana.kisilewicz@upt.ro"
+    },
+    {
+        "nume": "Ciprian Mătieş",
+        "titlu": "Asistent",
+        "departament": "Arhitectura",
+        "email": "ciprian.maties@upt.ro"
+    },
+    {
+        "nume": "Irina Mohora",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "irina.mohora@upt.ro"
+    },
+    {
+        "nume": "Mihai Danciu",
+        "titlu": "Asistent",
+        "departament": "Facultatea de Arhitectură",
+        "email": "mihai.danciu@upt.ro"
+    },
+    {
+        "nume": "Diana Belci",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "diana.belci@upt.ro"
+    },
+    {
+        "nume": "Beatrice Lucaci",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "beatrice.lucaci@upt.ro"
+    },
+    {
+        "nume": "Andrei Racolța",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Arhitectură",
+        "email": "andrei.racolta@upt.ro"
+    },
+    {
+        "nume": "Andreea Anghel",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "andreea.anghel@upt.ro"
+    },
+    {
+        "nume": "Oana Banescu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "oana.banescu@upt.ro"
+    },
+    {
+        "nume": "Oana Simionescu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "oana.simionescu@upt.ro"
+    },
+    {
+        "nume": "Alexandra Keller",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "alexandra.keller@upt.ro"
+    },
+    {
+        "nume": "Daniel Tellman",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "daniel.tellman@upt.ro"
+    },
+    {
+        "nume": "Marius Moşoarcă",
+        "titlu": "Profesor",
+        "departament": "Departamentul Arhitectură",
+        "email": "marius.mosoarca@upt.ro"
+    },
+    {
+        "nume": "Ioan Andreescu",
+        "titlu": "Decan - Profesor",
+        "departament": "Facultatea Arhitectură şi Urbanism",
+        "email": "ioan.andreescu@upt.ro"
+    },
+    {
+        "nume": "Mihai Fofiu",
+        "titlu": "Șef Lucrări",
+        "departament": "Dep_ARH",
+        "email": "mihai.fofiu@student.upt.ro"
+    },
+    {
+        "nume": "Cătălina Bocan",
+        "titlu": "Director departament - Conferențiar",
+        "departament": "Departamentul Arhitectură",
+        "email": "catalina.bocan@upt.ro"
+    },
+    {
+        "nume": "Vlad Ardeleanu",
+        "titlu": "Șef lucrari",
+        "departament": "Departamentul Arhitectură",
+        "email": "vlad.ardeleanu@upt.ro"
+    },
+    {
+        "nume": "Vlad Gaivoronschi",
+        "titlu": "Profesor",
+        "departament": "Departamentul Arhitectură",
+        "email": "vlad.gaivoronschi@upt.ro"
+    },
+    {
+        "nume": "Gabriela Paşcu",
+        "titlu": "Sef Lucrari",
+        "departament": "Departamentul Arhitectură",
+        "email": "gabriela.pascu@upt.ro"
+    },
+    {
+        "nume": "Marius Găman",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Arhitectură",
+        "email": "marius.gaman@upt.ro"
+    },
+    {
+        "nume": "Dan Idiceanu Mathe",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "dan.idiceanu-mathe@upt.ro"
+    },
+    {
+        "nume": "Liliana Roşiu",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Arhitectură",
+        "email": "liliana.rosiu@upt.ro"
+    },
+    {
+        "nume": "Ștefana Bădescu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "stefana.badescu@upt.ro"
+    },
+    {
+        "nume": "Rudolf Graf",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "rudolf.graf@upt.ro"
+    },
+    {
+        "nume": "Daniela Negrişanu",
+        "titlu": "Șef lucrari",
+        "departament": "Departamentul Arhitectură",
+        "email": "daniela.negrisanu@upt.ro"
+    },
+    {
+        "nume": "Răzvan Opriţa",
+        "titlu": "Fost angajat",
+        "departament": "Departamentul Arhitectură",
+        "email": "razvan.oprita@upt.ro"
+    },
+    {
+        "nume": "Maja Bâldea",
+        "titlu": "Sef Lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "maja.baldea@upt.ro"
+    },
+    {
+        "nume": "Ovidiu Micşa",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "ovidiu.micsa@upt.ro"
+    },
+    {
+        "nume": "Cristian Dumitrescu",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Arhitectură",
+        "email": "cristian.dumitrescu@upt.ro"
+    },
+    {
+        "nume": "Radu Radoslav",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Arhitectură",
+        "email": "radu.radoslav@upt.ro"
+    },
+    {
+        "nume": "Cristina Povian",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "cristina.povian@upt.ro"
+    },
+    {
+        "nume": "Mirela Szitar",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "mirela.szitar@upt.ro"
+    },
+    {
+        "nume": "Claudiu Toma",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "claudiu.toma@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Breazu",
+        "titlu": "Fost angajat",
+        "departament": "Departamentul Arhitectură",
+        "email": "gheorghe.breazu@upt.ro"
+    },
+    {
+        "nume": "Alfred Schwalie",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "alfred.schwalie@upt.ro"
+    },
+    {
+        "nume": "Teodor Gheorghiu",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Arhitectură",
+        "email": "teodor.gheorghiu@upt.ro"
+    },
+    {
+        "nume": "Bogdan Demetrescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Arhitectură",
+        "email": "bogdan.demetrescu@upt.ro"
+    },
+    {
+        "nume": "Cristian Blidariu",
+        "titlu": "Prodecan - Conferențiar",
+        "departament": "Departamentul Arhitectură",
+        "email": "cristian.blidariu@upt.ro"
+    },
+    {
+        "nume": "Marius Hârţa",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "marius.harta@upt.ro"
+    },
+    {
+        "nume": "Mircea Cristuţiu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "mircea.cristutiu@upt.ro"
+    },
+    {
+        "nume": "Mihai Popovici Donici",
+        "titlu": "Fost angajat",
+        "departament": "Departamentul Arhitectură",
+        "email": "mihai.popovici-donici@upt.ro"
+    },
+    {
+        "nume": "Ana Maria Branea",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Arhitectură",
+        "email": "ana-maria.branea@upt.ro"
+    },
+    {
+        "nume": "Smaranda Bica",
+        "titlu": "Profesor",
+        "departament": "Departamentul Arhitectură",
+        "email": "smaranda.bica@upt.ro"
+    },
+    {
+        "nume": "Diana Giurea",
+        "titlu": "Sef Lucrari",
+        "departament": "Departamentul Arhitectură",
+        "email": "diana.giurea@upt.ro"
+    },
+    {
+        "nume": "Romeo Szorad",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "romeo.szorad@upt.ro"
+    },
+    {
+        "nume": "Camil Milincu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Arhitectură",
+        "email": "camil.milincu@upt.ro"
+    },
+    {
+        "nume": "Claudiu Silvăşan",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "claudiu.silvasan@upt.ro"
+    },
+    {
+        "nume": "ANDREI GAL",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "andrei.gal@upt.ro"
+    },
+    {
+        "nume": "Radu David",
+        "titlu": "Cercetator",
+        "departament": "Dep_AIA",
+        "email": "radu.david@upt.ro"
+    },
+    {
+        "nume": "ION MITULEȚU",
+        "titlu": "Doctorand",
+        "departament": "Dep_AIA",
+        "email": "ion.mituletu@student.upt.ro"
+    },
+    {
+        "nume": "CRISTIAN  ZIMBRU",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "cristian.zimbru@upt.ro"
+    },
+    {
+        "nume": "ALEXANDRA SZEDLAK-STÎNEAN ",
+        "titlu": "Șef Lucrări",
+        "departament": "Dep. Automatica, Informatica Aplicata",
+        "email": "alexandra.szedlak-stinean@upt.ro"
+    },
+    {
+        "nume": "HORAŢIU GURBAN",
+        "titlu": "Șef Lucrări",
+        "departament": "Dep_AIA",
+        "email": "horatiu.gurban@upt.ro"
+    },
+    {
+        "nume": "Oana-Sorina Chirila",
+        "titlu": "Șef Lucrări",
+        "departament": "Dep_AIA",
+        "email": "oana-sorina.chirila@upt.ro"
+    },
+    {
+        "nume": "Pal Ștefan Murvay",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "stefan.murvay@upt.ro"
+    },
+    {
+        "nume": "Stelian Nicola",
+        "titlu": "Asistent",
+        "departament": "Facultatea Automatică şi Calculatoare",
+        "email": "stelian.nicola@upt.ro"
+    },
+    {
+        "nume": "Paul Negîrlă",
+        "titlu": "Asistent",
+        "departament": "Dep. Automatica, Informatica Aplicata",
+        "email": "paul.negirla@upt.ro"
+    },
+    {
+        "nume": "Lorena Hedrea",
+        "titlu": "Asistent",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "lorena.hedrea@upt.ro"
+    },
+    {
+        "nume": "Camil Jichici",
+        "titlu": "Asistent",
+        "departament": "Facultatea Automatică şi Calculatoare",
+        "email": "camil.jichici@upt.ro"
+    },
+    {
+        "nume": "Paul-Onut Negirla",
+        "titlu": "Asistent-duplicat",
+        "departament": "Dep. Automatica, Informatica Aplicata",
+        "email": "paul-onut.negirla@upt.ro"
+    },
+    {
+        "nume": "Raul-Cristian Roman",
+        "titlu": "Asistent Universitar",
+        "departament": "Dep. Automatica, Informatica Aplicata",
+        "email": "raul-cristian.roman@upt.ro"
+    },
+    {
+        "nume": "Claudia Bojan-Dragos",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "claudia.dragos@upt.ro"
+    },
+    {
+        "nume": "Loredana Stanciu",
+        "titlu": "Prodecan - Conferențiar",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "loredana.stanciu@upt.ro"
+    },
+    {
+        "nume": "Bogdan Groza",
+        "titlu": "Profesor",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "bogdan.groza@upt.ro"
+    },
+    {
+        "nume": "Ștefan Preitl",
+        "titlu": "Profesor pensionar",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "stefan.preitl@upt.ro"
+    },
+    {
+        "nume": "Ana Dan",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "ana.dan@upt.ro"
+    },
+    {
+        "nume": "Mircea Rădac",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "mircea.radac@upt.ro"
+    },
+    {
+        "nume": "Dorin Berian",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "dorin.berian@upt.ro"
+    },
+    {
+        "nume": "Iosif Szeidert",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "iosif.szeidert@upt.ro"
+    },
+    {
+        "nume": "Radu-Emil Precup",
+        "titlu": "Director CSUD - Profesor",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "radu.precup@upt.ro"
+    },
+    {
+        "nume": "Daniel Andreescu",
+        "titlu": "Profesor",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "daniel.andreescu@upt.ro"
+    },
+    {
+        "nume": "Toma-Leonida Dragomir",
+        "titlu": "Profesor pensionar",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "toma.dragomir@upt.ro"
+    },
+    {
+        "nume": "Ioan Silea",
+        "titlu": "Profesor",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "ioan.silea@upt.ro"
+    },
+    {
+        "nume": "Norbert Gal",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "norbert.gal@upt.ro"
+    },
+    {
+        "nume": "Nicolae Robu",
+        "titlu": "Profesor",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "nicolae.robu@upt.ro"
+    },
+    {
+        "nume": "Daniel Iercan",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "daniel.iercan@upt.ro"
+    },
+    {
+        "nume": "Cristian Vașar",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "cristian.vasar@upt.ro"
+    },
+    {
+        "nume": "Florin Drăgan",
+        "titlu": "Rector",
+        "departament": "Universitatea Politehnica Timișoara",
+        "email": "florin.dragan@upt.ro"
+    },
+    {
+        "nume": "Ioan Filip",
+        "titlu": "Profesor",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "ioan.filip@upt.ro"
+    },
+    {
+        "nume": "Radu Boraci",
+        "titlu": "Asistent",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "radu.boraci@upt.ro"
+    },
+    {
+        "nume": "Antonius Stanciu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "antonius.stanciu@upt.ro"
+    },
+    {
+        "nume": "Emil Voișan",
+        "titlu": "Asistent",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "emil.voisan@upt.ro"
+    },
+    {
+        "nume": "Vasile Stoicu-Tivadar",
+        "titlu": "Profesor",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "vasile.stoicu-tivadar@upt.ro"
+    },
+    {
+        "nume": "Daniel Curiac",
+        "titlu": "Profesor",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "daniel.curiac@upt.ro"
+    },
+    {
+        "nume": "Octavian Proştean",
+        "titlu": "Profesor",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "octavian.prostean@upt.ro"
+    },
+    {
+        "nume": "Sorin Nanu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "sorin.nanu@upt.ro"
+    },
+    {
+        "nume": "Mihaela Crișan-Vida",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "mihaela.vida@upt.ro"
+    },
+    {
+        "nume": "Adrian Korodi",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "adrian.korodi@upt.ro"
+    },
+    {
+        "nume": "Dan Ungureanu-Anghel",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "dan.ungureanu-anghel@upt.ro"
+    },
+    {
+        "nume": "Dorina Petrică",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "dorina.petrica@upt.ro"
+    },
+    {
+        "nume": "Lăcramioara Stoicu-Tivadar",
+        "titlu": "Profesor",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "lacramioara.stoicu-tivadar@upt.ro"
+    },
+    {
+        "nume": "Dadiana Caiman",
+        "titlu": "Inginer",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "dadiana.caiman@upt.ro"
+    },
+    {
+        "nume": "Constantin Voloșencu",
+        "titlu": "Profesor",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "constantin.volosencu@upt.ro"
+    },
+    {
+        "nume": "Adriana Albu",
+        "titlu": "Director departament - Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "adriana.albu@upt.ro"
+    },
+    {
+        "nume": "Andreea Robu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "andreea.robu@upt.ro"
+    },
+    {
+        "nume": "Ovidiu Baniaș",
+        "titlu": "Prodecan - Conferențiar",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "ovidiu.banias@upt.ro"
+    },
+    {
+        "nume": "Raul Robu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "raul.robu@upt.ro"
+    },
+    {
+        "nume": "Dorina Popescu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "dorina.popescu@upt.ro"
+    },
+    {
+        "nume": "Octavian Ștefan",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "octavian.stefan@upt.ro"
+    },
+    {
+        "nume": "Vladimir Cristian Vesa",
+        "titlu": "Asistent",
+        "departament": "Departamentul Comunicații",
+        "email": "vladimircristian.vesa@upt.ro"
+    },
+    {
+        "nume": "Marian Alin Minnich ",
+        "titlu": "Asistent",
+        "departament": "Departamentul Comunicații",
+        "email": "marianalin.minnich@upt.ro"
+    },
+    {
+        "nume": "Ioana Firoiu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "ioana.firoiu@upt.ro"
+    },
+    {
+        "nume": "Cosmin Iulian Duna",
+        "titlu": "Asistent",
+        "departament": "Departamentul Comunicații",
+        "email": "cosminiulian.duna@upt.ro"
+    },
+    {
+        "nume": "Valentin Niță",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "valentin.nita@upt.ro"
+    },
+    {
+        "nume": "CRISTIAN ȚECU",
+        "titlu": "Asistent",
+        "departament": "Departamentul Comunicații",
+        "email": "cristian.tecu@upt.ro"
+    },
+    {
+        "nume": "Teodor  Petrița",
+        "titlu": "Sef Lucrari",
+        "departament": "Departamentul Comunicații",
+        "email": "teodor.petrita@upt.ro"
+    },
+    {
+        "nume": "VLAD MIHAESCU",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "vlad.mihaescu@upt.ro"
+    },
+    {
+        "nume": "BOGDAN DRAGULESCU",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "bogdan.dragulescu@upt.ro"
+    },
+    {
+        "nume": "Gordana Barb",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "gordana.barb@upt.ro"
+    },
+    {
+        "nume": "Silviu Vert",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "silviu.vert@upt.ro"
+    },
+    {
+        "nume": "Georgiana Magu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Comunicații",
+        "email": "georgiana.magu@upt.ro"
+    },
+    {
+        "nume": "Florin Alexa",
+        "titlu": "Profesor",
+        "departament": "Departamentul Comunicații",
+        "email": "florin.alexa@upt.ro"
+    },
+    {
+        "nume": "Radu Vasiu",
+        "titlu": "Presedinte Senat - Profesor",
+        "departament": "Departamentul Comunicații",
+        "email": "radu.vasiu@upt.ro"
+    },
+    {
+        "nume": "Marius Otesteanu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Comunicații",
+        "email": "marius.otesteanu@upt.ro"
+    },
+    {
+        "nume": "Alexandru Isar",
+        "titlu": "Profesor",
+        "departament": "Departamentul Comunicații",
+        "email": "alexandru.isar@upt.ro"
+    },
+    {
+        "nume": "Monica Nafornita",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Comunicații",
+        "email": "monica.nafornita@upt.ro"
+    },
+    {
+        "nume": "Cristina Stolojescu-Crisan",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "cristina.stolojescu-crisan@upt.ro"
+    },
+    {
+        "nume": "Ioan Nafornita",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Comunicații",
+        "email": "ioan.nafornita@upt.ro"
+    },
+    {
+        "nume": "Mihai Onita",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "mihai.onita@upt.ro"
+    },
+    {
+        "nume": "Marian Bucos",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "marian.bucos@upt.ro"
+    },
+    {
+        "nume": "Ciprian David",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "ciprian.david@upt.ro"
+    },
+    {
+        "nume": "Janos Gal",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "janos.gal@upt.ro"
+    },
+    {
+        "nume": "Gheorghe-Daniel Popa",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "daniel.popa@upt.ro"
+    },
+    {
+        "nume": "Corina Botoca",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Comunicații",
+        "email": "corina.botoca@upt.ro"
+    },
+    {
+        "nume": "Elena Acimovat",
+        "titlu": "Tehnician",
+        "departament": "Departamentul Comunicații",
+        "email": "elena.acimovat@upt.ro"
+    },
+    {
+        "nume": "Horia Balta",
+        "titlu": "Director departament - Conferențiar",
+        "departament": "Departamentul Comunicații",
+        "email": "horia.balta@upt.ro"
+    },
+    {
+        "nume": "Adrian Mihaescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Comunicații",
+        "email": "adrian.mihaescu@upt.ro"
+    },
+    {
+        "nume": "Andy Vesa",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "andy.vesa@upt.ro"
+    },
+    {
+        "nume": "Iasmina Ermalai",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "iasmina.ermalai@upt.ro"
+    },
+    {
+        "nume": "Corina Nafornita",
+        "titlu": "Profesor",
+        "departament": "Departamentul Comunicații",
+        "email": "corina.nafornita@upt.ro"
+    },
+    {
+        "nume": "Cornel Balint",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "cornel.balint@upt.ro"
+    },
+    {
+        "nume": "Corneliu Toma",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Comunicații",
+        "email": "corneliu.toma@upt.ro"
+    },
+    {
+        "nume": "Eugen Marza",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Comunicații",
+        "email": "eugen.marza@upt.ro"
+    },
+    {
+        "nume": "Maria Kovaci",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "maria.kovaci@upt.ro"
+    },
+    {
+        "nume": "Calin Simu",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "calin.simu@upt.ro"
+    },
+    {
+        "nume": "Vasile Gui",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Comunicații",
+        "email": "vasile.gui@upt.ro"
+    },
+    {
+        "nume": "Radu Lucaciu",
+        "titlu": "Sef de lucrari",
+        "departament": "Departamentul Comunicații",
+        "email": "radu.lucaciu@upt.ro"
+    },
+    {
+        "nume": "Nicolae Miclau",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "nicolae.miclau@upt.ro"
+    },
+    {
+        "nume": "Georgeta Budura",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Comunicații",
+        "email": "georgeta.budura@upt.ro"
+    },
+    {
+        "nume": "Andrei Ternauciuc",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "andrei.ternauciuc@upt.ro"
+    },
+    {
+        "nume": "Muguras Mocofan",
+        "titlu": "Prodecan - Șef lucrări",
+        "departament": "Departamentul Comunicații",
+        "email": "muguras.mocofan@upt.ro"
+    },
+    {
+        "nume": "Andrei Campeanu",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Comunicații",
+        "email": "andrei.campeanu@upt.ro"
+    },
+    {
+        "nume": "Luminita Simionescu",
+        "titlu": "Secretar departament",
+        "departament": "Departamentul Comunicații",
+        "email": "luminita.simionescu@upt.ro"
+    },
+    {
+        "nume": "Ciprian Seiculescu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep_EA",
+        "email": "ciprian.seiculescu@upt.ro"
+    },
+    {
+        "nume": "Corin Oteșteanu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep_EA",
+        "email": "corin.otesteanu@upt.ro"
+    },
+    {
+        "nume": "RARES  STANCIU",
+        "titlu": "Șef lucrări",
+        "departament": "Dep_EA",
+        "email": "rares.stanciu@upt.ro"
+    },
+    {
+        "nume": "Cristian Ionici",
+        "titlu": "Asistent",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "cristian.ionici@upt.ro"
+    },
+    {
+        "nume": "Cristina Sirbu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Electronica Aplicata",
+        "email": "cristina.sirbu@upt.ro"
+    },
+    {
+        "nume": "Szilard Bularka",
+        "titlu": "Doctorand",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "szilard.bularka@student.upt.ro"
+    },
+    {
+        "nume": "Cătălin Pescari",
+        "titlu": "Cadru extern asociat",
+        "departament": "Dep.Electronică Aplicată",
+        "email": "catalin.pescari@upt.ro"
+    },
+    {
+        "nume": "Cristina Laura Sîrbu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "cristina-l.sirbu@upt.ro"
+    },
+    {
+        "nume": "Adrian Popovici",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "adrian.popovici@upt.ro"
+    },
+    {
+        "nume": "Cătălin Căleanu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "catalin.caleanu@upt.ro"
+    },
+    {
+        "nume": "Ivan Bogdanov",
+        "titlu": "Profesor",
+        "departament": "Fac. Electronică și Telecomunicații",
+        "email": "ivan.bogdanov@upt.ro"
+    },
+    {
+        "nume": "Dan Lascu",
+        "titlu": "Decan - Profesor",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "dan.lascu@upt.ro"
+    },
+    {
+        "nume": "Mircea Tomoroga",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "mircea.tomoroga@upt.ro"
+    },
+    {
+        "nume": "Ramona Muţiu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "ramona.mutiu@upt.ro"
+    },
+    {
+        "nume": "Lucian Jurca",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "lucian.jurca@upt.ro"
+    },
+    {
+        "nume": "Adrian Avram",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "adrian.avram@upt.ro"
+    },
+    {
+        "nume": "Ioan Lie",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "ioan.lie@upt.ro"
+    },
+    {
+        "nume": "Radu Mirşu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "radu.mirsu@upt.ro"
+    },
+    {
+        "nume": "Ioan Jiveţ",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "ioan.jivet@upt.ro"
+    },
+    {
+        "nume": "Dorina Isar",
+        "titlu": "Profesor",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "dorina.isar@upt.ro"
+    },
+    {
+        "nume": "Sabin Ionel",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "sabin.ionel@upt.ro"
+    },
+    {
+        "nume": "Aurel Filip",
+        "titlu": "Inginer",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "aurel.filip@upt.ro"
+    },
+    {
+        "nume": "Georgiana Simion",
+        "titlu": "Conferentiar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "georgiana.simion@upt.ro"
+    },
+    {
+        "nume": "Valentin Maranescu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "valentin.maranescu@upt.ro"
+    },
+    {
+        "nume": "Aurel Cireşan",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "aurel.ciresan@upt.ro"
+    },
+    {
+        "nume": "Petru Papazian",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "petru.papazian@upt.ro"
+    },
+    {
+        "nume": "Dan Andreiciuc",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "dan.andreiciuc@upt.ro"
+    },
+    {
+        "nume": "Viorel Popescu",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "viorel.popescu@upt.ro"
+    },
+    {
+        "nume": "Mircea Băbăiţă",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "mircea.babaita@upt.ro"
+    },
+    {
+        "nume": "Marllene Dăneţi",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "marllene.daneti@upt.ro"
+    },
+    {
+        "nume": "Roland Szabo",
+        "titlu": "Conferentiar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "roland.szabo@upt.ro"
+    },
+    {
+        "nume": "Sorin Popescu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "sorin.popescu@upt.ro"
+    },
+    {
+        "nume": "Ioana-Monica Pop-Călimanu",
+        "titlu": "Conferentiar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "ioana-m.pop@upt.ro"
+    },
+    {
+        "nume": "Dan Negoiţescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "dan.negoitescu@upt.ro"
+    },
+    {
+        "nume": "Mircea Gurbină",
+        "titlu": "Sef Lucrari",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "mircea.gurbina@upt.ro"
+    },
+    {
+        "nume": "Tatiana Sima",
+        "titlu": "Secretar dep.",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "tatiana.sima@upt.ro"
+    },
+    {
+        "nume": "Aurel Gontean",
+        "titlu": "Director departament - Profesor",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "aurel.gontean@upt.ro"
+    },
+    {
+        "nume": "Bogdan Marinca",
+        "titlu": "Conferentiar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "bogdan.marinca@upt.ro"
+    },
+    {
+        "nume": "Mircea Ciugudean",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "mircea.ciugudean@upt.ro"
+    },
+    {
+        "nume": "Silviu Iovanovici",
+        "titlu": "Asistent",
+        "departament": "Dep_MEO",
+        "email": "silviu.iovanovici@upt.ro"
+    },
+    {
+        "nume": "Andrei Silaghi",
+        "titlu": "Șef Lucrări",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "andrei.silaghi@upt.ro"
+    },
+    {
+        "nume": "Dumitru Bonciog",
+        "titlu": "Asistent",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "dumitru.bonciog@upt.ro"
+    },
+    {
+        "nume": "Teodor Păcurar",
+        "titlu": "Asistent Universitar",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "teodor.pacurar@upt.ro"
+    },
+    {
+        "nume": "Gabriel Gasparesc",
+        "titlu": "Asistent",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "gabriel.gasparesc@upt.ro"
+    },
+    {
+        "nume": "Liliana Matiu-Iovan",
+        "titlu": "Director departament - Șef lucrări",
+        "departament": "Dep. Măsurări şi Electronică Optică ",
+        "email": "liliana.matiu-iovan@upt.ro"
+    },
+    {
+        "nume": "Cosmin Ancuti",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "cosmin.ancuti@upt.ro"
+    },
+    {
+        "nume": "Ciprian Dughir",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "ciprian.dughir@upt.ro"
+    },
+    {
+        "nume": "Adrian Mihaiuti",
+        "titlu": "Fost angajat",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "adrian.mihaiuti@upt.ro"
+    },
+    {
+        "nume": "Dan Stoiciu",
+        "titlu": "Profesor",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "dan.stoiciu@upt.ro"
+    },
+    {
+        "nume": "Traian Jurca",
+        "titlu": "Profesor",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "traian.jurca@upt.ro"
+    },
+    {
+        "nume": "Cora Iftode",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "cora.iftode@upt.ro"
+    },
+    {
+        "nume": "Raul Ionel",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "raul.ionel@upt.ro"
+    },
+    {
+        "nume": "Septimiu Mischie",
+        "titlu": "Prodecan - Conferențiar",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "septimiu.mischie@upt.ro"
+    },
+    {
+        "nume": "Codruța O. Ancuti",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "codruta-o.ancuti@upt.ro"
+    },
+    {
+        "nume": "Aldo De Sabata",
+        "titlu": "Profesor",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "aldo.de-sabata@upt.ro"
+    },
+    {
+        "nume": "Adrian Vartosu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "adrian.vartosu@upt.ro"
+    },
+    {
+        "nume": "Gabriel Vasiu",
+        "titlu": "Asistent",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "gabriel.vasiu@upt.ro"
+    },
+    {
+        "nume": "Robert Pazsitka",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "robert.pazsitka@upt.ro"
+    },
+    {
+        "nume": "Otilia Verzoc",
+        "titlu": "Secretar dep.",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "otilia.verzoc@upt.ro"
+    },
+    {
+        "nume": "Mihaela Lascu",
+        "titlu": "Profesor",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "mihaela.lascu@upt.ro"
+    },
+    {
+        "nume": "Daniel Belega",
+        "titlu": "Profesor",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "daniel.belega@upt.ro"
+    },
+    {
+        "nume": "Valentin Ordodi",
+        "titlu": "Șef lucrări",
+        "departament": "Dep_CAICON",
+        "email": "valentin.ordodi@upt.ro"
+    },
+    {
+        "nume": "Diana Dreava",
+        "titlu": "Asistent",
+        "departament": "Departamentul CAICON",
+        "email": "diana.dreava@upt.ro"
+    },
+    {
+        "nume": "Ana Maria Pana",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "anamaria.pana@upt.ro"
+    },
+    {
+        "nume": "Iulia Pausescu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "iulia.pausescu@upt.ro"
+    },
+    {
+        "nume": "Alina Dumitrel",
+        "titlu": "Prorector",
+        "departament": "Proces de învățământ, problematică studențească",
+        "email": "alina.dumitrel@upt.ro"
+    },
+    {
+        "nume": "Mihai Medeleanu",
+        "titlu": "Decan - Conferențiar",
+        "departament": "Departamentul CAICON",
+        "email": "mihai.medeleanu@upt.ro"
+    },
+    {
+        "nume": "Anamaria Todea",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "anamaria.todea@upt.ro"
+    },
+    {
+        "nume": "Alfa Lupea",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICON",
+        "email": "alfa.lupea@upt.ro"
+    },
+    {
+        "nume": "Delia Perju",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICON",
+        "email": "delia.perju@upt.ro"
+    },
+    {
+        "nume": "Mirabela Padure",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "mirabela.padure@upt.ro"
+    },
+    {
+        "nume": "Vasile Pode",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICON",
+        "email": "vasile.pode@upt.ro"
+    },
+    {
+        "nume": "Daniel Hadaruga",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICON",
+        "email": "daniel.hadaruga@upt.ro"
+    },
+    {
+        "nume": "Sorina Boran",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "sorina.boran@upt.ro"
+    },
+    {
+        "nume": "Francisc Peter",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICON",
+        "email": "francisc.peter@upt.ro"
+    },
+    {
+        "nume": "Alina Sofian",
+        "titlu": "inginer",
+        "departament": "Departamentul CAICON",
+        "email": "alina.sofian@upt.ro"
+    },
+    {
+        "nume": "Carmen Rusnac",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "carmen.rusnac@upt.ro"
+    },
+    {
+        "nume": "Sabina Nitu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "sabina.nitu@upt.ro"
+    },
+    {
+        "nume": "Simona Popa",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "simona.popa@upt.ro"
+    },
+    {
+        "nume": "Zlatimir Stanoiev",
+        "titlu": "Asistent",
+        "departament": "Departamentul CAICON",
+        "email": "zlatimir.stanoiev@upt.ro"
+    },
+    {
+        "nume": "Lucian Rusnac",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICON",
+        "email": "lucian.rusnac@upt.ro"
+    },
+    {
+        "nume": "Adrian Rus",
+        "titlu": "Asistent",
+        "departament": "Departamentul CAICON",
+        "email": "adrian.rus@upt.ro"
+    },
+    {
+        "nume": "Gerlinde Rusu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "gerlinde.rusu@upt.ro"
+    },
+    {
+        "nume": "Teodor Todinca",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICON",
+        "email": "teodor.todinca@upt.ro"
+    },
+    {
+        "nume": "Valentin Badea",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "valentin.badea@upt.ro"
+    },
+    {
+        "nume": "Cristina Paul",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "cristina.paul@upt.ro"
+    },
+    {
+        "nume": "Marius Milea",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "marius.milea@upt.ro"
+    },
+    {
+        "nume": "Vasile Bercean",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "vasile.bercean@upt.ro"
+    },
+    {
+        "nume": "Andra Tamas",
+        "titlu": "Director departament - Șef lucrări",
+        "departament": "Departamentul CAICON",
+        "email": "andra.tamas@upt.ro"
+    },
+    {
+        "nume": "Marcel Suta",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CAICON",
+        "email": "marcel.suta@upt.ro"
+    },
+    {
+        "nume": "Geza Bandur",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CAICON",
+        "email": "geza.bandur@upt.ro"
+    },
+    {
+        "nume": "Mircea Niculescu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "mircea.niculescu@upt.ro"
+    },
+    {
+        "nume": "Ioan Ursoiu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "ioan.ursoiu@upt.ro"
+    },
+    {
+        "nume": "Robert Ianoş",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICAM",
+        "email": "robert.ianos@upt.ro"
+    },
+    {
+        "nume": "Ioan Lazău",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICAM",
+        "email": "ioan.lazau@upt.ro"
+    },
+    {
+        "nume": "Radu Lazău",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CAICAM",
+        "email": "radu.lazau@upt.ro"
+    },
+    {
+        "nume": "Marcela Stoia",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "marcela.stoia@upt.ro"
+    },
+    {
+        "nume": "Mihaela Ciopec",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CAICAM",
+        "email": "mihaela.ciopec@upt.ro"
+    },
+    {
+        "nume": "Cosmin Vancea",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "cosmin.vancea@upt.ro"
+    },
+    {
+        "nume": "Laura Cocheci",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "laura.cocheci@upt.ro"
+    },
+    {
+        "nume": "Liviu Costea",
+        "titlu": "Asistent",
+        "departament": "Departamentul CAICAM",
+        "email": "liviu.costea@upt.ro"
+    },
+    {
+        "nume": "Marius Gheju",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CAICAM",
+        "email": "marius.gheju@upt.ro"
+    },
+    {
+        "nume": "Erika Reisz",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "erika.reisz@upt.ro"
+    },
+    {
+        "nume": "Raluca Vodă",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CAICAM",
+        "email": "raluca.voda@upt.ro"
+    },
+    {
+        "nume": "Marius Jurca",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "marius.jurca@upt.ro"
+    },
+    {
+        "nume": "Florica Manea",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICAM",
+        "email": "florica.manea@upt.ro"
+    },
+    {
+        "nume": "Adina Laţia",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "adina.latia@upt.ro"
+    },
+    {
+        "nume": "Adina Negrea",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICAM",
+        "email": "adina.negrea@upt.ro"
+    },
+    {
+        "nume": "Narcis Duţeanu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CAICAM",
+        "email": "narcis.duteanu@upt.ro"
+    },
+    {
+        "nume": "Giannin Moşoarcă",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "giannin.mosoarca@upt.ro"
+    },
+    {
+        "nume": "Petru Negrea",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICAM",
+        "email": "petru.negrea@upt.ro"
+    },
+    {
+        "nume": "Aniela Pop",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "aniela.pop@upt.ro"
+    },
+    {
+        "nume": "Mircea Ştefănescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICAM",
+        "email": "mircea.stefanescu@upt.ro"
+    },
+    {
+        "nume": "Eugen Lungu",
+        "titlu": "Asistent",
+        "departament": "Departamentul CAICAM",
+        "email": "eugen.lungu@upt.ro"
+    },
+    {
+        "nume": "Angela Magda",
+        "titlu": "Asistent",
+        "departament": "Departamentul CAICAM",
+        "email": "angela.magda@upt.ro"
+    },
+    {
+        "nume": "Andrea Kellenberger",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CAICAM",
+        "email": "andrea.kellenberger@upt.ro"
+    },
+    {
+        "nume": "Radu Ardelean",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "radu.ardelean@upt.ro"
+    },
+    {
+        "nume": "Rodica Pode",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICAM",
+        "email": "rodica.pode@upt.ro"
+    },
+    {
+        "nume": "Anamaria Baciu",
+        "titlu": "Asistent de cercetare",
+        "departament": "Departamentul CAICAM",
+        "email": "anamaria.baciu@upt.ro"
+    },
+    {
+        "nume": "Corneliu Davidescu",
+        "titlu": "Profesor",
+        "departament": null,
+        "email": "corneliu.davidescu@upt.ro"
+    },
+    {
+        "nume": "Cornelia Păcurariu",
+        "titlu": "Profesor",
+        "departament": "Departamentul CAICAM",
+        "email": "cornelia.pacurariu@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Făgădar",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CAICAM",
+        "email": "gheorghe.fagadar@upt.ro"
+    },
+    {
+        "nume": "Mircea Dan",
+        "titlu": "Director departament - Șef lucrări",
+        "departament": "Departamentul CAICAM",
+        "email": "mircea.dan@upt.ro"
+    },
+    {
+        "nume": "Lavinia Lupa",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul CAICAM",
+        "email": "lavinia.lupa@upt.ro"
+    },
+    {
+        "nume": "Cornelia Muntean",
+        "titlu": "Prodecan - Conferențiar",
+        "departament": "Departamentul CAICAM",
+        "email": "cornelia.muntean@upt.ro"
+    },
+    {
+        "nume": "Nicolae Vaszilcsin",
+        "titlu": "Decan CHIM / Profesor",
+        "departament": "Fac. Chimie Ind. şi Ingineria Mediului",
+        "email": "nicolae.vaszilcsin@upt.ro"
+    },
+    {
+        "nume": "Adrian Martin",
+        "titlu": "Asistent",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "adrian.martin@upt.ro"
+    },
+    {
+        "nume": "Dan Hulea",
+        "titlu": "Asistent",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "dan.hulea@upt.ro"
+    },
+    {
+        "nume": "Danut Vitan",
+        "titlu": "Asistent",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "danut.vitan@upt.ro"
+    },
+    {
+        "nume": "Codruta M. Ancuti",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "codruta-m.ancuti@upt.ro"
+    },
+    {
+        "nume": "Alin Argeseanu",
+        "titlu": "Director departament - Conferențiar",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "alin.argeseanu@upt.ro"
+    },
+    {
+        "nume": "Marius Babescu",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "marius.babescu@upt.ro"
+    },
+    {
+        "nume": "Ciprian Sorândaru",
+        "titlu": "Decan - Conferențiar",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "ciprian.sorandaru@upt.ro"
+    },
+    {
+        "nume": "Octavian Cornea",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "octavian.cornea@upt.ro"
+    },
+    {
+        "nume": "Nicolae Muntean",
+        "titlu": "Profesor",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "nicolae.muntean@upt.ro"
+    },
+    {
+        "nume": "Dan Nicoara",
+        "titlu": "Conferențiar pensionar",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "dan.nicoara@upt.ro"
+    },
+    {
+        "nume": "Dorin Popovici",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "dorin.popovici@upt.ro"
+    },
+    {
+        "nume": "Sorin Musuroi",
+        "titlu": "Prorector",
+        "departament": "Comunicare, imagine și relația cu mediul socio-economic",
+        "email": "sorin.musuroi@upt.ro"
+    },
+    {
+        "nume": "Cristian Lascu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "cristian.lascu@upt.ro"
+    },
+    {
+        "nume": "Antheia Deacu",
+        "titlu": "Asistent",
+        "departament": "Departamentul de Inginerie Electrica",
+        "email": "antheia.deacu@upt.ro"
+    },
+    {
+        "nume": "Ioan Ghiur",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "ioan.ghiur@upt.ro"
+    },
+    {
+        "nume": "Marcus Svoboda",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "marcus.svoboda@upt.ro"
+    },
+    {
+        "nume": "Martian Mot",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "martian.mot@upt.ro"
+    },
+    {
+        "nume": "Ana Popa",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "ana.popa@upt.ro"
+    },
+    {
+        "nume": "Marius Biriescu",
+        "titlu": "Profesor",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "marius.biriescu@upt.ro"
+    },
+    {
+        "nume": "Ion Boldea",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "ion.boldea@upt.ro"
+    },
+    {
+        "nume": "Lucian Tutelea",
+        "titlu": "Profesor",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "lucian.tutelea@upt.ro"
+    },
+    {
+        "nume": "Alexandru Hedes",
+        "titlu": "Director departament / Conferențiar",
+        "departament": "Departamentul Inginerie Electrică",
+        "email": "alexandru.hedes@upt.ro"
+    },
+    {
+        "nume": "Marin Salinschi",
+        "titlu": "Asistent",
+        "departament": "Departamentul Electroenergetică",
+        "email": "marin.salinschi@upt.ro"
+    },
+    {
+        "nume": "Mihaela Frigura",
+        "titlu": "Asistent",
+        "departament": "Departamentul Electroenergetică",
+        "email": "mihaela.frigura@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Vuc",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Electroenergetică",
+        "email": "gheorghe.vuc@upt.ro"
+    },
+    {
+        "nume": "Razvan Teslovan",
+        "titlu": "Doctorand",
+        "departament": "Departamentul Electroenergetică",
+        "email": "razvan.teslovan@upt.ro"
+    },
+    {
+        "nume": "Ilona Bucatariu",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Electroenergetică",
+        "email": "ilona.bucatariu@upt.ro"
+    },
+    {
+        "nume": "Flaviu Frigura",
+        "titlu": "Profesor",
+        "departament": "Departamentul Electroenergetică",
+        "email": "flaviu.frigura@upt.ro"
+    },
+    {
+        "nume": "Adrian Pana",
+        "titlu": "Profesor",
+        "departament": "Departamentul Electroenergetică",
+        "email": "adrian.pana@upt.ro"
+    },
+    {
+        "nume": "Iuliu Delesega",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Electroenergetică",
+        "email": "iuliu.delesega@upt.ro"
+    },
+    {
+        "nume": "Gabriel Oros",
+        "titlu": "Doctorand",
+        "departament": "Departamentul Electroenergetică",
+        "email": "gabriel.oros@upt.ro"
+    },
+    {
+        "nume": "Stefan Kilyeni",
+        "titlu": "Profesor",
+        "departament": "Departamentul Electroenergetică",
+        "email": "stefan.kilyeni@upt.ro"
+    },
+    {
+        "nume": "Constantin Barbulescu",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Electroenergetică",
+        "email": "constantin.barbulescu@upt.ro"
+    },
+    {
+        "nume": "Petru Andea",
+        "titlu": "Profesor",
+        "departament": "Departamentul Electroenergetică",
+        "email": "petru.andea@upt.ro"
+    },
+    {
+        "nume": "Sandi Vasilievici",
+        "titlu": "Profesor pensionar",
+        "departament": "Departamentul Electroenergetică",
+        "email": "sandi.vasilievici@upt.ro"
+    },
+    {
+        "nume": "Florin Molnar",
+        "titlu": "Director departament - Conferențiar",
+        "departament": "Departamentul Electroenergetică",
+        "email": "florin.molnar@upt.ro"
+    },
+    {
+        "nume": "Felicia Baloi",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Electroenergetică",
+        "email": "felicia.baloi@upt.ro"
+    },
+    {
+        "nume": "Oana Pop",
+        "titlu": "Asistent",
+        "departament": "Departamentul Electroenergetică",
+        "email": "oana.pop@upt.ro"
+    },
+    {
+        "nume": "Doru Vatau",
+        "titlu": "Profesor",
+        "departament": "Departamentul Electroenergetică",
+        "email": "doru.vatau@upt.ro"
+    },
+    {
+        "nume": "Adrian Olariu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Electroenergetică",
+        "email": "adrian.olariu@upt.ro"
+    },
+    {
+        "nume": "Ioan Borlea",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Electroenergetică",
+        "email": "ioan.borlea@upt.ro"
+    },
+    {
+        "nume": "Alexandru Baloi",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Electroenergetică",
+        "email": "alexandru.baloi@upt.ro"
+    },
+    {
+        "nume": "Attila Simo",
+        "titlu": "Prodecan - Conferențiar",
+        "departament": "Departamentul Electroenergetică",
+        "email": "attila.simo@upt.ro"
+    },
+    {
+        "nume": "Oana Irizoiu ",
+        "titlu": "Asistent",
+        "departament": "Dep_BFI",
+        "email": "oana.irizoiu@upt.ro"
+    },
+    {
+        "nume": "Delia Calinoiu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "delia.calinoiu@upt.ro"
+    },
+    {
+        "nume": "Daniela Vesa",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "daniela.vesa@upt.ro"
+    },
+    {
+        "nume": "Ioan Damian",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "ioan.damian@upt.ro"
+    },
+    {
+        "nume": "Ioan Luminosu",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "ioan.luminosu@upt.ro"
+    },
+    {
+        "nume": "Marian Greconici",
+        "titlu": "Director departament - Conferențiar",
+        "departament": "Dep. Bazele Fizice ale Ingineriei ",
+        "email": "marian.greconici@upt.ro"
+    },
+    {
+        "nume": "Beatrice Arvinti",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "beatrice.arvinti@upt.ro"
+    },
+    {
+        "nume": "Calin Chioreanu",
+        "titlu": "Asistent",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "calin.chioreanu@upt.ro"
+    },
+    {
+        "nume": "Constantin Blaj",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "constantin.blaj@upt.ro"
+    },
+    {
+        "nume": "Floricica Barvinschi",
+        "titlu": "Conferențiar",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "floricica.barvinschi@upt.ro"
+    },
+    {
+        "nume": "Ioan Zaharie",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "ioan.zaharie@upt.ro"
+    },
+    {
+        "nume": "Dumitru Toader",
+        "titlu": "Profesor",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "dumitru.toader@upt.ro"
+    },
+    {
+        "nume": "Simona Pretorian",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "simona.pretorian@upt.ro"
+    },
+    {
+        "nume": "Marius Costache",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "marius.costache@upt.ro"
+    },
+    {
+        "nume": "Nicolina Pop",
+        "titlu": "Profesor",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "nicolina.pop@upt.ro"
+    },
+    {
+        "nume": "Ildiko Tatai",
+        "titlu": "Șef lucrări",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "ildiko.tatai@upt.ro"
+    },
+    {
+        "nume": "Simona Ilie",
+        "titlu": "Asistent",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "simona.ilie@upt.ro"
+    },
+    {
+        "nume": "Dumitru Irimia",
+        "titlu": "Conferențiar pensionar",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "dumitru.irimia@upt.ro"
+    },
+    {
+        "nume": "Ioan Bere",
+        "titlu": "Profesor",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "ioan.bere@upt.ro"
+    },
+    {
+        "nume": "Dragos Ursu",
+        "titlu": "Șef Lucrări",
+        "departament": "Dep. Bazele Fizice ale Ingineriei",
+        "email": "dragos.ursu@upt.ro"
+    },
+    {
+        "nume": "Tibor-Gergo Fodor",
+        "titlu": "Doctorand",
+        "departament": "MEO",
+        "email": "tibor-gergo.fodor@student.upt.ro"
+    },
+    {
+        "nume": "CĂTĂLIN BĂLAN",
+        "titlu": "Doctorand",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "catalin.balan@student.upt.ro"
+    },
+    {
+        "nume": "Andrei Neiconi",
+        "titlu": "Cadru Didactic Asociat",
+        "departament": "Dep_MEO",
+        "email": "andrei.neiconi@upt.ro"
+    },
+    {
+        "nume": "Arpad Kis",
+        "titlu": "Doctorand",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "arpad.kis@student.upt.ro"
+    },
+    {
+        "nume": "Alexandru Bogdan Savu",
+        "titlu": "Cadru Didactic Asociat",
+        "departament": "Dep_MEO",
+        "email": "alexandru-b.savu@upt.ro"
+    },
+    {
+        "nume": "Dorel Buncianu",
+        "titlu": "Inginer",
+        "departament": "Departamentul MMUT",
+        "email": "dorel.buncianu@upt.ro"
+    },
+    {
+        "nume": "Adriana Tănasie",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "adriana.tanasie@upt.ro"
+    },
+    {
+        "nume": "Adrian Neagu",
+        "titlu": "Lector",
+        "departament": "Departamentul Matematică",
+        "email": "adrian.neagu@upt.ro"
+    },
+    {
+        "nume": "Florinela Popa",
+        "titlu": "Asistent",
+        "departament": "Dep_MATE",
+        "email": "florinela.popa@student.upt.ro"
+    },
+    {
+        "nume": "Daniela  Toth",
+        "titlu": "Doctorand",
+        "departament": "Dep_MATE",
+        "email": "daniela.toth@student.upt.ro"
+    },
+    {
+        "nume": "Ariana Găină",
+        "titlu": "Doctorand",
+        "departament": "Dep_MATE",
+        "email": "ariana.gaina@student.upt.ro"
+    },
+    {
+        "nume": "Florin-Raul Horhat",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Matematică",
+        "email": "florin-raul.horhat@upt.ro"
+    },
+    {
+        "nume": "Alan Paun",
+        "titlu": "Conferențiar",
+        "departament": "Departamentul Management",
+        "email": "alan.paun@upt.ro"
+    },
+    {
+        "nume": "Alin Sîrbu",
+        "titlu": null,
+        "departament": "Dep. Mecanică, Rezistența Materialelor",
+        "email": "alin.sirbu@upt.ro"
+    },
+    {
+        "nume": "ANA TUSA",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Inginerie si Management Hunedoara",
+        "email": "ana.tusa@upt.ro"
+    },
+    {
+        "nume": "Daniela Alic",
+        "titlu": "Asistent",
+        "departament": "Dep. Inginerie si Management Hunedoara",
+        "email": "daniela.alic@student.upt.ro"
+    },
+    {
+        "nume": "ANDY ISFANUTI",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Inginerie Electrică ",
+        "email": "andy.isfanuti@upt.ro"
+    },
+    {
+        "nume": "Mihaiţă Gireadă",
+        "titlu": "Asistent",
+        "departament": "Inginerie Electrica",
+        "email": "mihaita.gireada@student.upt.ro"
+    },
+    {
+        "nume": "Petru Bîcă",
+        "titlu": "Asociat",
+        "departament": "Departamentul Electroenergetică",
+        "email": "petru.bica@upt.ro"
+    },
+    {
+        "nume": "Eugen Ticula",
+        "titlu": "Asociat",
+        "departament": "Departamentul Electroenergetică",
+        "email": "eugen.ticula@upt.ro"
+    },
+    {
+        "nume": "Nicolae Chiosa",
+        "titlu": "Asociat",
+        "departament": "Departamentul Electroenergetică",
+        "email": "nicolae.chiosa@upt.ro"
+    },
+    {
+        "nume": "Nicolae2 Antonie",
+        "titlu": "Asistent",
+        "departament": "Dep_EA",
+        "email": "nicolae2.antonie@upt.ro"
+    },
+    {
+        "nume": "Radu Ricman",
+        "titlu": "Doctorand",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "radu.ricman@student.upt.ro"
+    },
+    {
+        "nume": "Andrei Burta",
+        "titlu": "Asistent",
+        "departament": "Electronică Aplicată",
+        "email": "andrei.burta@student.upt.ro"
+    },
+    {
+        "nume": "Alexandru Sfiraţ",
+        "titlu": "Doctorand",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "alexandru.sfirat@student.upt.ro"
+    },
+    {
+        "nume": "Ismet Porobic",
+        "titlu": "Doctorand",
+        "departament": "Departamentul Electronică Aplicată",
+        "email": "ismet.porobic@student.upt.ro"
+    },
+    {
+        "nume": "Paul Gajitzki",
+        "titlu": "Doctorand",
+        "departament": "Departamentul Comunicații",
+        "email": "paul.gajitzki@student.upt.ro"
+    },
+    {
+        "nume": "Ștefan Vasile",
+        "titlu": "Asistent",
+        "departament": "Comunicatii",
+        "email": "stefan.vasile@student.upt.ro"
+    },
+    {
+        "nume": "Georgiana Ţucudean",
+        "titlu": "Doctorand",
+        "departament": "Departamentul Comunicatii",
+        "email": "georgiana.tucudean@student.upt.ro"
+    },
+    {
+        "nume": "Andrei Vacariu",
+        "titlu": "Doctorand",
+        "departament": "Departamentul Comunicatii",
+        "email": "andrei.vacariu@student.upt.ro"
+    },
+    {
+        "nume": "Flavius Dănuți",
+        "titlu": "Asistent",
+        "departament": "Comunicatii",
+        "email": "flavius.danuti@student.upt.ro"
+    },
+    {
+        "nume": "Elisei Ilieș",
+        "titlu": "Asistent",
+        "departament": "Comunicatii",
+        "email": "elisei.ilies@student.upt.ro"
+    },
+    {
+        "nume": "Cristina Andraș",
+        "titlu": "Asistent",
+        "departament": "Departament Comunicatii",
+        "email": "cristina.andras@student.upt.ro"
+    },
+    {
+        "nume": "Ciprian Orhei",
+        "titlu": "Doctorand",
+        "departament": "Departamentul Comunicații",
+        "email": "ciprian.orhei@student.upt.ro"
+    },
+    {
+        "nume": "Corneliu Bobaru",
+        "titlu": "Doctorand",
+        "departament": "Comunicatii",
+        "email": "corneliu.bobaru@student.upt.ro"
+    },
+    {
+        "nume": "Răzvan Vîlceanu",
+        "titlu": "Doctorand",
+        "departament": "Departamentul Comunicatii",
+        "email": "razvan.vilceanu@student.upt.ro"
+    },
+    {
+        "nume": "Voislava Davidovici",
+        "titlu": "Doctorand",
+        "departament": "Comunicatii",
+        "email": "voislava.davidovici@student.upt.ro"
+    },
+    {
+        "nume": "Daniela Stoica",
+        "titlu": "Doctorand",
+        "departament": "Comunicatii",
+        "email": "daniela.stoica@student.upt.ro"
+    },
+    {
+        "nume": "Diana Andone",
+        "titlu": "Director",
+        "departament": "Centrul de eLearning",
+        "email": "diana.andone@upt.ro"
+    },
+    {
+        "nume": "Oana Rotaru",
+        "titlu": "Asistent",
+        "departament": "Departamentul Comunicații",
+        "email": "oana.rotaru@student.upt.ro"
+    },
+    {
+        "nume": "Daniel Nunes",
+        "titlu": "Asistent",
+        "departament": "Departamentul CMMC",
+        "email": "daniel.nunes@student.upt.ro"
+    },
+    {
+        "nume": "Dominiq Jakab",
+        "titlu": "Asistent",
+        "departament": "Departamentul CMMC",
+        "email": "dominiq.jakab@student.upt.ro"
+    },
+    {
+        "nume": "Lia Epure",
+        "titlu": "Academician",
+        "departament": "BCUPT_Bir_Ach_Ev_Schimb",
+        "email": "lia.epure@upt.ro"
+    },
+    {
+        "nume": "Ștefan Dună",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Constructii Civile şi Instalatii",
+        "email": "stefan.duna@upt.ro"
+    },
+    {
+        "nume": "Alexandru Pitroaca",
+        "titlu": "Inginer",
+        "departament": "DEP_CCI",
+        "email": "alexandru.pitroaca@upt.ro"
+    },
+    {
+        "nume": "Viorel Todea",
+        "titlu": "Șef Lucrări",
+        "departament": "CCI",
+        "email": "viorel.todea@student.upt.ro"
+    },
+    {
+        "nume": "Mircea Cristian Vasiliu",
+        "titlu": "Asistent",
+        "departament": "Dep_CALC",
+        "email": "mirceacristian.vasiliu@upt.ro"
+    },
+    {
+        "nume": "Augustin Cătălin Iapa",
+        "titlu": "Asistent",
+        "departament": "Dep_CALC",
+        "email": "augustincatalin.iapa@student.upt.ro"
+    },
+    {
+        "nume": "Andrei Bogdan Mihăilescu",
+        "titlu": "Asistent",
+        "departament": "Dep_CALC",
+        "email": "andreibogdan.mihailescu@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Paul Zinca",
+        "titlu": "Asistent",
+        "departament": "Dep_CALC",
+        "email": "gheorghepaul.zinca@upt.ro"
+    },
+    {
+        "nume": "Renata Grațiela Boar",
+        "titlu": "Șef lucrări",
+        "departament": "Dep_CALC",
+        "email": "renatagratiela.boar@upt.ro"
+    },
+    {
+        "nume": "COSMINA CHISE",
+        "titlu": "Colaborator",
+        "departament": "Dep_CALC",
+        "email": "cosmina.chise@upt.ro"
+    },
+    {
+        "nume": "Miruna Stoicanescu",
+        "titlu": "Doctorand",
+        "departament": "Dep. Măsurări şi Electronică Optică",
+        "email": "miruna.stoicanescu@student.upt.ro"
+    },
+    {
+        "nume": "Marian Baciu",
+        "titlu": "Asistent",
+        "departament": "Departament Calculatoare",
+        "email": "marian.baciu@student.upt.ro"
+    },
+    {
+        "nume": "Mălina Ivan",
+        "titlu": "Asistent",
+        "departament": "Departament Calculatoare",
+        "email": "malina.ivan@student.upt.ro"
+    },
+    {
+        "nume": "Ștefan Bulzan",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "stefan.bulzan@student.upt.ro"
+    },
+    {
+        "nume": "Lucian Găină",
+        "titlu": "Asistent",
+        "departament": "Departament Calculatoare",
+        "email": "lucian.gaina@student.upt.ro"
+    },
+    {
+        "nume": "Adrian Militaru",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "adrian.militaru@student.upt.ro"
+    },
+    {
+        "nume": "Larisa Szatmari",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "larisa.szatmari@student.upt.ro"
+    },
+    {
+        "nume": "Alin Stanciu",
+        "titlu": "Asistent",
+        "departament": "Calculatoare",
+        "email": "alin.stanciu@student.upt.ro"
+    },
+    {
+        "nume": "Bianca Blajovan",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "bianca.blajovan@student.upt.ro"
+    },
+    {
+        "nume": "Cristian Babǎu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "cristian.babau@student.upt.ro"
+    },
+    {
+        "nume": "Marian-Emanuel Ionascu",
+        "titlu": "Doctorand",
+        "departament": "Dep. Automatica, Informatica Aplicata",
+        "email": "marian.ionascu@student.upt.ro"
+    },
+    {
+        "nume": "Raul Rotar",
+        "titlu": "Cadru didactic asociat",
+        "departament": "Facultatea Automatică şi Calculatoare",
+        "email": "raul.rotar@upt.ro"
+    },
+    {
+        "nume": "Simena Dajulescu",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "simena.dajulescu@student.upt.ro"
+    },
+    {
+        "nume": "Arpad Kiss",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "arpad.kiss@student.upt.ro"
+    },
+    {
+        "nume": "Raul Musteaţă",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "raul.musteata@student.upt.ro"
+    },
+    {
+        "nume": "Cătălin Vladu",
+        "titlu": "Asistent",
+        "departament": "Departament Calculatoare",
+        "email": "catalin.vladu@student.upt.ro"
+    },
+    {
+        "nume": "Răzvan Miclea",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "razvan.miclea@student.upt.ro"
+    },
+    {
+        "nume": "Adelina Stana",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "adelina.stana@student.upt.ro"
+    },
+    {
+        "nume": "Darius Barmayoun",
+        "titlu": "Asistent",
+        "departament": "Dep_CALC",
+        "email": "darius.barmayoun@student.upt.ro"
+    },
+    {
+        "nume": "Cristian Cosariu",
+        "titlu": "Șef Lucrări",
+        "departament": "Departamentul Calculatoare",
+        "email": "cristian.cosariu@upt.ro"
+    },
+    {
+        "nume": "Gheorghe Darle",
+        "titlu": "Asistent",
+        "departament": "Departamentul Calculatoare",
+        "email": "gheorghe.darle@upt.ro"
+    },
+    {
+        "nume": "Ioana Benea",
+        "titlu": "Asistent",
+        "departament": "CAICON",
+        "email": "ioana.benea@student.upt.ro"
+    },
+    {
+        "nume": "Cristina Chirilovici",
+        "titlu": "Doctorand",
+        "departament": "CAICON",
+        "email": "cristina.chirilovici@student.upt.ro"
+    },
+    {
+        "nume": "SORINA-CLAUDIA NEGREA",
+        "titlu": "Asistent",
+        "departament": "Departamentul CAICAM",
+        "email": "sorina-claudia.negrea@student.upt.ro"
+    },
+    {
+        "nume": "Cristiana Rus",
+        "titlu": "Asistent",
+        "departament": "CAICAM",
+        "email": "cristiana.rus@student.upt.ro"
+    },
+    {
+        "nume": "HORIA TRUȚĂ",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "horia.truta@upt.ro"
+    },
+    {
+        "nume": "Rodica-Mariana Ion",
+        "titlu": "Șef lucrări",
+        "departament": "Departamentul Arhitectură",
+        "email": "rodica-mariana.ion@upt.ro"
+    },
+    {
+        "nume": "Alexandru Jivan",
+        "titlu": "Asistent",
+        "departament": "Dep_ARH",
+        "email": "alexandru.jivan@upt.ro"
+    },
+    {
+        "nume": "Daniel Mihai Muntean",
+        "titlu": "Asistent",
+        "departament": "Arhitectura",
+        "email": "daniel-m.muntean@student.upt.ro"
+    },
+    {
+        "nume": "Brînduşa Havaşi",
+        "titlu": "Asistent",
+        "departament": "Departamentul Arhitectură",
+        "email": "brindusa.havasi@upt.ro"
+    },
+    {
+        "nume": "RĂZVAN ANCUȚI",
+        "titlu": "Asistent",
+        "departament": "Departamentul Automatica - Informatica Aplicata",
+        "email": "razvan.ancuti@upt.ro"
+    },
+    {
+        "nume": "Florinel Libotean",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "florinel.libotean@upt.ro"
+    },
+    {
+        "nume": "IOAN DANIEL BORLEA ",
+        "titlu": "Doctorand",
+        "departament": "Dep_AIA",
+        "email": "ioandaniel.borlea@upt.ro"
+    },
+    {
+        "nume": "Vlad Rochian",
+        "titlu": "Asistent",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "vlad.rochian@student.upt.ro"
+    },
+    {
+        "nume": "Coralia Bodea",
+        "titlu": "Programator analist ajutor debutant",
+        "departament": "Biblioteca Centrală",
+        "email": "coralia.bodea@upt.ro"
+    },
+    {
+        "nume": "Romina Druță",
+        "titlu": "Asistent",
+        "departament": "Dep. Automatica si Informatica Aplicata",
+        "email": "romina.druta@student.upt.ro"
+    },
+    {
+        "nume": "Sorin Cojocaru",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "sorin.cojocaru@student.upt.ro"
+    },
+    {
+        "nume": "Mihai Grosu",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "mihai.grosu@student.upt.ro"
+    },
+    {
+        "nume": "Vlad Vesa",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "vlad.vesa@student.upt.ro"
+    },
+    {
+        "nume": "Mihaela Szilagyi",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "mihaela.szilagyi@student.upt.ro"
+    },
+    {
+        "nume": "Raul Brumar",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "raul.brumar@student.upt.ro"
+    },
+    {
+        "nume": "Denisia Lăban",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "denisia.laban@student.upt.ro"
+    },
+    {
+        "nume": "Cristina Moroti",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "cristina.moroti@student.upt.ro"
+    },
+    {
+        "nume": "Gabriela Varga",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "gabriela.varga@student.upt.ro"
+    },
+    {
+        "nume": "Ioan Jurescu",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "ioan.jurescu@student.upt.ro"
+    },
+    {
+        "nume": "Cătălin Briciu",
+        "titlu": "Asistent",
+        "departament": "Dep. Automatica, Informatica Aplicata",
+        "email": "catalin.briciu@upt.ro"
+    },
+    {
+        "nume": "Marian Rarinca",
+        "titlu": "Asistent Asociat",
+        "departament": "AIA",
+        "email": "marian.rarinca@student.upt.ro"
+    },
+    {
+        "nume": "Alexandru Chiru",
+        "titlu": "Asistent",
+        "departament": "Dep. Automatica Informatica Aplicata",
+        "email": "alexandru.chiru@student.upt.ro"
+    },
+    {
+        "nume": "Alexandru Ioana",
+        "titlu": "Doctorand",
+        "departament": "Dep. Automatica, Informatica Aplicata",
+        "email": "alexandru.ioana@student.upt.ro"
+    },
+    {
+        "nume": "Andrei Laţcu",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "andrei.latcu@student.upt.ro"
+    },
+    {
+        "nume": "Radu Petruşan",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "radu.petrusan@student.upt.ro"
+    },
+    {
+        "nume": "Cătălin Pesecan",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "catalin.pesecan@student.upt.ro"
+    },
+    {
+        "nume": "Florin Daniel Şandru",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "florin-d.sandru@student.upt.ro"
+    },
+    {
+        "nume": "Vlad Ungureanu",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "vlad.ungureanu@student.upt.ro"
+    },
+    {
+        "nume": "Raul Stoin",
+        "titlu": "Asistent Asociat",
+        "departament": "Dep_AIA",
+        "email": "raul.stoin@upt.ro"
+    },
+    {
+        "nume": "Cristina Codrean",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "cristina.codrean@student.upt.ro"
+    },
+    {
+        "nume": "Vlad Negru",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "vlad.negru@student.upt.ro"
+    },
+    {
+        "nume": "Andrei Prodaniuc",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "andrei.prodaniuc@student.upt.ro"
+    },
+    {
+        "nume": "Monica Nedelcea",
+        "titlu": "Asistent",
+        "departament": "Dep_AIA",
+        "email": "monica.nedelcea@student.upt.ro"
+    }
+]
