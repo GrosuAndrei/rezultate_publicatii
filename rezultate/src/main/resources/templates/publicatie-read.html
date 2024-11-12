@@ -1,0 +1,98 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Conventii 1.0</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+</head>
+
+<body>
+	<div class="container">
+		<nav aria-label="breadcrumb">
+		  <ol class="breadcrumb">
+		    <li class="breadcrumb-item"><a href="/">Acasa</a></li>
+		    <li class="breadcrumb-item active" aria-current="page">Publicatii</li>
+		  </ol>
+		</nav>	
+		<div th:switch="${publicatii}">
+		    <h2 th:case="null">Nu este nicio publicatie in baza de date!</h2>
+	        <div th:case="*">
+	            <h2>Publicatii</h2>
+	            <table class="table table-small">
+	                <thead>
+	                    <tr>
+	                        <th scope="col">#</th>
+	                        <th scope="col">Editeaza</th>
+	                        <th scope="col">Sterge</th>
+	                        
+	                        <th scope="col">Id Researcher</th>
+	                        <th scope="col">WOS</th>
+	                        <th scope="col">Titlu</th>
+	                        <th scope="col">Tip Doctor</th>	                      
+	                        <th scope="col">Pagini</th>
+						
+							<th scope="col">Titlu Sursa</th>
+							<th scope="col">Titlu Serie</th>
+							<th scope="col">Problema</th>
+							<th scope="col">Volum</th>	                      
+							<th scope="col">Luna</th>
+
+							<th scope="col">An</th>
+						    <th scope="col">Autori</th>
+						    <th scope="col">Cuvinte Cheie</th>
+						    <th scope="col">ISBN</th>
+						    <th scope="col">ISSN</th>
+							
+						    <th scope="col">EISSN</th>
+						    <th scope="col">DOI</th>	                      
+						    <th scope="col">Id Rid Contributor</th>
+							<th scope="col">Nume Rid Contributor</th>
+							<th scope="col">Nr Autori</th>
+							
+	                    </tr>
+	                </thead>
+	                <tbody>
+		                <tr th:each="publicatie : ${publicatii}">
+		                    <td scope="col" th:text="${publicatie.id}"></td>		                    
+		                    <td><a th:href="@{/publicatie-edit/{id}(id=${publicatie.id})}">Editeaza</a></td>
+		                    <td><a th:href="@{/publicatie-delete/{id}(id=${publicatie.id})}">Sterge</a></td>		                    
+		                    <td th:text="${publicatie.nResearcherId}"></td>
+		                    <td th:text="${publicatie.szWOS}"></td>
+		                    <td th:text="${publicatie.szTitle}"></td>
+		                    <td th:text="${publicatie.szDoctype}"></td>
+		                    <td th:text="${publicatie.szPages}"></td>
+
+							<td th:text="${publicatie.szSourceTitle}"></td>
+							<td th:text="${publicatie.szBookSeriesTitle}"></td>
+							<td th:text="${publicatie.szIssue}"></td>
+							<td th:text="${publicatie.szVolume}"></td>
+							<td th:text="${publicatie.szMonth}"></td>
+							
+							<td th:text="${publicatie.szYear}"></td>
+							<td th:text="${publicatie.szAuthors}"></td>
+							<td th:text="${publicatie.szKeywords}"></td>
+							<td th:text="${publicatie.szISBN}"></td>
+							<td th:text="${publicatie.szISSN}"></td>
+
+							<td th:text="${publicatie.szEISSN}"></td>
+							<td th:text="${publicatie.szDOI}"></td>
+							<td th:text="${publicatie.szContributorRIdIds}"></td>
+							<td th:text="${publicatie.szContributorRIdNames}"></td>
+							<td th:text="${publicatie.nNoOfAuthors}"></td>
+		                    
+		                    
+		                </tr>
+	            	</tbody>
+	        	</table>
+		    </div>      
+		    <p><a href="/publicatie-create">Adauga o publicatie noua</a></p>
+		</div>
+	</div>
+
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+</body>
+</html>

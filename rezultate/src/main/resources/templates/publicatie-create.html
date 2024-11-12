@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Conventii 1.0</title>
+	<base href="/">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/x-icon" href="favicon.ico">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+</head>
+
+<body>
+	<div class="container">
+	<nav aria-label="breadcrumb">
+	  <ol class="breadcrumb">
+	    <li class="breadcrumb-item"><a href="/">Acasa</a></li>
+	    <li class="breadcrumb-item active" aria-current="page">Publicatii</li>
+	  </ol>
+	</nav>	
+		
+	<h2>Publicatii</h2>
+	<hr>
+	
+	<form action="#" th:action="@{/publicatie-create-save}" th:object="${publicatie}" method="post">
+		<div class="row row-cols-4">
+			<div class="col-sm">
+		    	<label for="nResearcherId">Id Researcher</label>			    
+	    	</div>
+			<div class="col-sm">
+		    	<input type="number" th:field="*{nResearcherId}" id="nResearcherId" name="nResearcherId" placeholder="Id Researcher">
+		    	<span th:if="${#fields.hasErrors('nResearcherId')}" th:errors="*{nResearcherId}"></span>
+    	</div>
+
+		<hr>
+	    
+		<div class="row row-cols-4">
+			<div class="col-sm">
+			    <label for="szWOS">WOS</label>
+	    	</div>
+			<div class="col-sm">
+			    <input type="text" th:field="*{szWOS}" id="szWOS" placeholder="WOS">
+			    <span th:if="${#fields.hasErrors('szWOS')}" th:errors="*{szWOS}"></span>
+	    	</div>
+		
+			<div class="col-sm">
+			    <label for="szTitle">Titlu</label>
+	    	</div>
+			<div class="col-sm">
+			    <input type="text" th:field="*{szTitle}" id="szTitle" placeholder="Titlu">
+			    <span th:if="${#fields.hasErrors('szTitle')}" th:errors="*{szTitle}"></span>
+	    	</div>
+	    </div>
+
+		<hr>
+		
+		<div class="row row-cols-4">
+			<div class="col-sm">
+			    <label for="szDoctype">Tip Doctor</label>
+	    	</div>
+			<div class="col-sm">
+			    <input type="text" th:field="*{szDoctype}" id="szDoctype" placeholder="Tip Doctor">
+			    <span th:if="${#fields.hasErrors('szDoctype')}" th:errors="*{szDoctype}"></span>
+	    	</div>
+		
+			<div class="col-sm">
+			    <label for="szPages">Pagini</label>
+	    	</div>
+			<div class="col-sm">
+			    <input type="text" th:field="*{szPages}" id="szPages" placeholder="Pagini">
+			    <span th:if="${#fields.hasErrors('szPages')}" th:errors="*{szPages}"></span>
+	    	</div>
+	    </div>
+		
+		<hr>
+				
+			<div class="row row-cols-4">
+				<div class="col-sm">
+				    <label for="szSourceTitle">Titlu Sursa</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szSourceTitle}" id="szSourceTitle" placeholder="Titlu Sursa">
+					   <span th:if="${#fields.hasErrors('szSourceTitle')}" th:errors="*{szSourceTitle}"></span>
+			    </div>
+				
+				<div class="col-sm">
+					   <label for="szBookSeriesTitle">Titlu Serie</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szBookSeriesTitle}" id="szBookSeriesTitle" placeholder="Titlu Serie">
+					   <span th:if="${#fields.hasErrors('szBookSeriesTitle')}" th:errors="*{szBookSeriesTitle}"></span>
+			    </div>
+			  	</div>
+				
+		<hr>
+			<div class="row row-cols-4">
+				<div class="col-sm">
+				    <label for="szIssue">Problema</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szIssue}" id="szIssue" placeholder="Problema">
+					   <span th:if="${#fields.hasErrors('szIssue')}" th:errors="*{szIssue}"></span>
+			    </div>
+				
+				<div class="col-sm">
+					   <label for="szVolume">Volum</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szVolume}" id="szVolume" placeholder="Volum">
+					   <span th:if="${#fields.hasErrors('szVolume')}" th:errors="*{szVolume}"></span>
+			    </div>
+			  	</div>
+				
+		<hr>
+		
+			<div class="row row-cols-4">
+				<div class="col-sm">
+				    <label for="szMonth">Luna</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szMonth}" id="szMonth" placeholder="Luna">
+					   <span th:if="${#fields.hasErrors('szMonth')}" th:errors="*{szMonth}"></span>
+			    </div>
+				
+				<div class="col-sm">
+					   <label for="szYear">An</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szYear}" id="szYear" placeholder="An">
+					   <span th:if="${#fields.hasErrors('szYear')}" th:errors="*{szYear}"></span>
+			    </div>
+			  	</div>
+				
+		<hr>
+		
+			<div class="row row-cols-4">
+				<div class="col-sm">
+				    <label for="szAuthors">Autori</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szAuthors}" id="szAuthors" placeholder="Autori">
+					   <span th:if="${#fields.hasErrors('szAuthors')}" th:errors="*{szAuthors}"></span>
+			    </div>
+				
+				<div class="col-sm">
+					   <label for="szKeywords">Cuvinte Cheie</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szKeywords}" id="szKeywords" placeholder="Cuvinte Cheie">
+					   <span th:if="${#fields.hasErrors('szKeywords')}" th:errors="*{szKeywords}"></span>
+			    </div>
+			  	</div>
+				
+		<hr>
+		
+			<div class="row row-cols-4">
+				<div class="col-sm">
+				    <label for="szISBN">ISBN</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szISBN}" id="szISBN" placeholder="ISBN">
+					   <span th:if="${#fields.hasErrors('szISBN')}" th:errors="*{szISBN}"></span>
+			    </div>
+				
+				<div class="col-sm">
+					   <label for="szISSN">ISSN</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szISSN}" id="szISSN" placeholder="ISSN">
+					   <span th:if="${#fields.hasErrors('szISSN')}" th:errors="*{szISSN}"></span>
+			    </div>
+			  	</div>
+				
+		<hr>
+		
+			<div class="row row-cols-4">
+				<div class="col-sm">
+				    <label for="szEISSN">EISSN</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szEISSN}" id="szEISSN" placeholder="EISSN">
+					   <span th:if="${#fields.hasErrors('szEISSN')}" th:errors="*{szEISSN}"></span>
+			    </div>
+				
+				<div class="col-sm">
+					   <label for="szDOI">DOI</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szDOI}" id="szDOI" placeholder="DOI">
+					   <span th:if="${#fields.hasErrors('szDOI')}" th:errors="*{szDOI}"></span>
+			    </div>
+			  	</div>
+				
+		<hr>
+		
+			<div class="row row-cols-4">
+				<div class="col-sm">
+				    <label for="szContributorRIdIds">Id Rid Contributor</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szContributorRIdIds}" id="szContributorRIdIds" placeholder="Id Rid Contributor">
+					   <span th:if="${#fields.hasErrors('szContributorRIdIds')}" th:errors="*{szContributorRIdIds}"></span>
+			    </div>
+				
+				<div class="col-sm">
+					   <label for="szContributorRIdNames">Nume Rid Contributor</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="text" th:field="*{szContributorRIdNames}" id="szContributorRIdNames" placeholder="DOI">
+					   <span th:if="${#fields.hasErrors('szContributorRIdNames')}" th:errors="*{szContributorRIdNames}"></span>
+			    </div>
+			  	</div>
+				
+		<hr>
+		
+			<div class="row row-cols-4">
+				<div class="col-sm">
+				    <label for="nNoOfAuthors">Nr Autori</label>
+			    </div>
+				<div class="col-sm">
+					   <input type="number" th:field="*{nNoOfAuthors}" id="nNoOfAuthors" placeholder="Nr Autori">
+					   <span th:if="${#fields.hasErrors('nNoOfAuthors')}" th:errors="*{nNoOfAuthors}"></span>
+			    </div>
+				<div class="col-sm">
+					&nbsp;
+				</div>
+					    	
+				<div class="col-sm">
+					&nbsp;
+				</div>
+		<hr>
+		
+	    <input type="submit" value="Salveaza companie">
+	</form>
+	</div>
+  	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+</body>
+</html>

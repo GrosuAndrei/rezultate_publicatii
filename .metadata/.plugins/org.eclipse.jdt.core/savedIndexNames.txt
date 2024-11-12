@@ -42,7 +42,6 @@ INDEX VERSION 1.134+C:\proiect_licenta\2024.09.15 - rezultate cercetare cd - gro
 841137466.index
 3618954182.index
 4283788276.index
-2450161054.index
 85179854.index
 2833229686.index
 1377734165.index

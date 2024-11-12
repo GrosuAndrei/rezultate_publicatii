@@ -212,13 +212,13 @@ public class Application
 			p1.setYear("2022");
 			p1.setAuthors("Auth1");
 			p1.setKeywords("key1");
-			p1.setISBN("11");
-			p1.setISSN("22");
-			p1.setEISSN("33");
-			p1.setDOI("44");
-			p1.setContributorRIdIds("55");
-			p1.setContributorRIdNames("name1");
-			p1.setNoOfAuthors(1);
+			p1.setISBN(null);
+			p1.setISSN(null);
+			p1.setEISSN(null);
+			p1.setDOI(null);
+			p1.setContributorRIdIds(null);
+			p1.setContributorRIdNames(null);
+			p1.setNoOfAuthors(0);
 			
 			log.info("ending initialization...");
 	    };
